@@ -1,0 +1,300 @@
+Requirement,Human Value Category
+Users must be able to log in using a secure authentication system,Security
+The system should support two-factor authentication for enhanced security,Security
+Customers can browse products without creating an account,Self-Direction
+Users must be able to reset their passwords via email verification,Security
+Admins can manage user roles and permissions,Power
+The platform must allow customers to leave reviews and ratings,Self-Expression
+AI-based recommendations should personalize user experience,Hedonism
+Users can request account deletion along with their personal data,Self-Direction
+The system should provide real-time fraud detection alerts,Security
+The application must support multiple payment options including digital wallets,Universalism
+A chatbot should be available for customer support 24/7,Benevolence
+The website must support multiple languages for global accessibility,Universalism
+Users must receive email notifications for transaction updates,Security
+The system should automatically log out inactive users after 15 minutes,Security
+Customers must be able to track their orders in real time,Security
+Employees must complete mandatory cybersecurity training annually,Security
+The platform should allow refunds to be processed within 5 business days,Benevolence
+The system must comply with GDPR data protection regulations,Security
+A dark mode feature should be available for accessibility,Universalism
+Users should be able to customize notification preferences,Self-Direction
+"The search function must support filters by price, category, and ratings",Self-Direction
+The system should allow integration with third-party APIs,Achievement
+Employees can submit time-off requests through the HR portal,Benevolence
+Users should be notified of policy updates and changes,Security
+The software should support offline mode for key functionalities,Self-Direction
+The application should support voice commands for navigation,Universalism
+Customers can schedule appointments through the platform,Self-Direction
+The system should prevent duplicate user registrations,Security
+Admins can generate detailed user activity reports,Power
+Employees can request remote work approval through the system,Self-Direction
+The system must be scalable to support 1 million concurrent users,Achievement
+The website should load within 2 seconds under normal conditions,Achievement
+The mobile app should consume minimal battery power,Achievement
+The software should maintain an uptime of 99.9%,Security
+Data backups must be performed every 24 hours,Security
+The system should comply with WCAG accessibility guidelines,Universalism
+User data should be encrypted both in transit and at rest,Security
+"The application must work on Windows, macOS, and Linux",Universalism
+The platform should be optimized for low-bandwidth connections,Universalism
+Error messages must be user-friendly and actionable,Benevolence
+Customers should have the option to subscribe to a premium membership,Achievement
+The system should support dynamic pricing based on market trends,Achievement
+The platform should support targeted advertisements,Achievement
+User engagement metrics should be tracked for business analysis,Achievement
+A loyalty points system should reward frequent customers,Stimulation
+Organizations must have the ability to white-label the software,Power
+The system should support cross-platform integrations with other tools,Achievement
+Customers should be able to share product links via social media,Self-Expression
+Users must be able to donate to charity via the platform,Benevolence
+The software should provide insights on customer behavior trends,Achievement
+The system should allow digital signature integration for contracts,Security
+The application should support multi-user collaboration on documents,Benevolence
+Users should be able to compare products side by side,Self-Direction
+Customers can request a callback from customer support,Benevolence
+The software should integrate with calendar applications for scheduling,Self-Direction
+The platform should offer AI-driven chat summarization,Achievement
+The system should detect and prevent duplicate transaction attempts,Security
+Users can report inappropriate content directly in the app,Security
+The system should notify users when their subscription is about to expire,Benevolence
+Users should have an option to download invoices in PDF format,Self-Direction
+The platform must allow businesses to set operational hours,Self-Direction
+Admins should have dashboard access to key system metrics,Power
+The platform should auto-generate reports on user activity,Achievement
+Employees should be able to swap work shifts via the app,Benevolence
+The system should operate with minimal downtime during updates,Security
+API requests should respond within 200ms under normal load,Achievement
+The platform should support adaptive streaming for videos,Achievement
+System logs should be archived for at least five years,Security
+User profiles should load within 1 second on average,Achievement
+The application should include offline caching for key functions,Self-Direction
+The platform should allow limited free trials before requiring payment,Achievement
+The system should provide automated invoice reminders,Conformity
+Companies should be able to set user access limits based on tiers,Power
+The system should offer referral rewards to users,Stimulation
+The platform should provide AI-driven sales predictions,Achievement
+Users should receive recommendations based on purchase history,Hedonism
+The software should provide monthly analytics reports to businesses,Achievement
+Admins should be able to categorize customers based on behavior,Power
+The system should provide sentiment analysis on customer reviews,Achievement
+Businesses should have an option to run seasonal promotions,Achievement
+Customers should have an option to schedule auto-renewals,Self-Direction
+The system should allow bulk purchasing with tiered discounts,Achievement
+The platform should provide fraud risk analysis for transactions,Security
+AI should detect potential customer churn based on activity,Achievement
+The platform should support crowdfunding campaigns for startups,Benevolence
+The system should allow organizations to collect anonymous feedback,Power
+The platform should allow users to filter notifications by type,Self-Direction
+Customers should be able to switch between dark and light modes,Self-Direction
+The software should support drag-and-drop functionality,Self-Direction
+The system should allow quick one-click ordering,Hedonism
+Users should be able to customize dashboard layouts,Self-Direction
+The platform should automatically apply promo codes,Benevolence
+The system should allow multi-step verification for admins,Security
+The system should include an AI-based resume parser for HR tools,Achievement
+Users should be able to customize alerts for key system events,Self-Direction
+The system should offer tax calculation features for businesses,Achievement
+Users should be able to schedule automated report generation,Self-Direction
+The platform should allow businesses to track expenses,Achievement
+Users should receive insights on best-performing products,Achievement
+The system should support AI-driven competitor analysis,Achievement
+Users must be able to register using email and social media accounts,Self-Direction
+The platform must provide password strength indicators,Security
+Users should be able to edit their profile details,Self-Direction
+Customers must have the ability to reset their password via OTP,Security
+The system should automatically log out users after 30 minutes of inactivity,Security
+Users should be able to create and manage wishlists,Hedonism
+The application should allow importing contacts for invitations,Self-Direction
+The platform must include a multi-step form for new user registration,Conformity
+Users must be notified of failed login attempts,Security
+The system should provide detailed order tracking statuses,Security
+Users must be able to share posts within the platform,Self-Expression
+Admins should be able to broadcast system-wide announcements,Power
+The software should allow bulk file uploads,Self-Direction
+Customers should have access to saved payment methods,Self-Direction
+The system should provide dynamic pricing based on demand,Achievement
+Users should be able to follow and interact with other users,Self-Expression
+The application should have a feature to generate invoices automatically,Achievement
+Businesses must be able to create and manage discount codes,Power
+The software should support one-click checkout for repeat customers,Hedonism
+Users must be able to block and report suspicious accounts,Security
+The system should provide a dashboard for transaction history,Self-Direction
+Users should receive push notifications for important updates,Security
+The platform should provide an integrated chat feature,Benevolence
+Users must be able to download reports in CSV format,Self-Direction
+The application should have an activity feed showing recent actions,Self-Direction
+The system should automatically categorize uploaded documents,Achievement
+Customers must be able to leave anonymous reviews,Self-Expression
+The platform should allow custom tagging for items,Self-Direction
+Users should be able to export data in PDF format,Self-Direction
+The system should support third-party login authentication,Self-Direction
+The application must be mobile-responsive,Universalism
+"The platform must support at least 100,000 concurrent users",Achievement
+The website should be optimized for accessibility compliance,Universalism
+The software should operate efficiently on low-end devices,Universalism
+The database should automatically scale with increased demand,Achievement
+The application must function smoothly with weak internet connections,Universalism
+System performance must be monitored in real time,Security
+The application should provide offline access for select features,Self-Direction
+The platform must meet industry compliance standards,Conformity
+All server logs should be archived for at least three years,Security
+Users must be able to subscribe to premium features,Achievement
+The system should offer personalized marketing suggestions,Achievement
+Companies must be able to run analytics on customer behaviors,Achievement
+The platform should offer commission-based referral programs,Stimulation
+Organizations must be able to sell digital products,Achievement
+The system should allow businesses to schedule promotional campaigns,Achievement
+Admins must be able to generate financial reports,Power
+The platform should provide recommendations based on browsing history,Hedonism
+Users should have access to exclusive members-only content,Power
+The application should allow influencer partnerships,Achievement
+The system should support multi-factor authentication,Security
+The application should enable geolocation-based recommendations,Hedonism
+Users should be able to schedule reminders for important tasks,Self-Direction
+The platform should integrate seamlessly with external calendars,Self-Direction
+The system should allow users to create sub-accounts,Self-Direction
+Users should be able to customize theme settings,Self-Direction
+The application should include AI-based fraud detection,Security
+The platform must allow automated recurring billing,Conformity
+Customers must have an option to request refunds via the portal,Self-Direction
+Users should be able to reorder past purchases quickly,Hedonism
+The system should support user-generated polls and surveys,Self-Expression
+Users must be able to transfer credits between accounts,Self-Direction
+The platform should allow keyword-based search filtering,Self-Direction
+Customers must be able to provide structured feedback,Self-Expression
+System response time should be under 200ms,Achievement
+The application must ensure 99.9% uptime,Security
+The software should automatically back up data daily,Security
+The platform must use SSL encryption for all communications,Security
+User sessions must expire after prolonged inactivity,Security
+The system should support IPv6 for future compatibility,Achievement
+The platform should support API access for enterprise clients,Achievement
+The software must support multi-currency transactions,Universalism
+Organizations must be able to purchase software licenses in bulk,Achievement
+The system should provide insights into customer spending habits,Achievement
+Companies should be able to generate marketing performance reports,Achievement
+Businesses must have the ability to flag fraudulent activities,Security
+The platform should allow international shipping rate calculations,Universalism
+Admins should be able to track employee usage statistics,Power
+The system should allow businesses to configure automated messages,Achievement
+Organizations should have the ability to perform A/B testing,Achievement
+Users must be able to generate QR codes for sharing content,Self-Direction
+The application should allow secure file sharing with expiration settings,Security
+The platform should include a custom dashboard feature,Self-Direction
+The system should allow anonymous browsing for privacy-conscious users,Self-Direction
+Users should be able to schedule automatic data exports,Self-Direction
+Companies must be able to manage multiple storefronts,Power
+The system should provide monthly performance reports,Achievement
+Businesses should have an option to implement flexible pricing tiers,Achievement
+The platform should support blockchain-based payment verification,Security
+Users should be able to import and export contact lists,Self-Direction
+The application should provide smart contract signing capabilities,Security
+The platform should include a reward-based engagement system,Stimulation
+Customers must be able to escalate support tickets,Benevolence
+The system should integrate with major CRM solutions,Achievement
+The platform must allow document collaboration in real time,Benevolence
+Organizations should be able to conduct market research surveys,Achievement
+Companies should have the ability to customize reports,Self-Direction
+The platform should allow businesses to analyze conversion rates,Achievement
+Users should receive AI-driven stock level predictions,Achievement
+The system should support real-time auction bidding,Stimulation
+"The system should enable real-time collaboration among users, improving teamwork and productivity.","Benevolence, Achievement"
+The software must have a dark mode to reduce eye strain and support user comfort.,"Hedonism, Self-Direction"
+The system must ensure high availability with a 99.99% uptime for critical services.,"Security, Power"
+The software should allow for customizable notifications to help users stay informed about important updates.,"Self-Direction, Achievement"
+The system must provide users with the option to encrypt sensitive personal information.,"Security, Universalism"
+The software should support multi-language functionality to increase global accessibility.,"Universalism, Equality"
+The system must allow users to integrate with other platforms for data synchronization.,"Self-Direction, Achievement"
+The application should provide robust data analysis tools to support decision-making.,"Power, Achievement"
+The software should enable users to track their environmental impact and suggest ways to reduce it.,"Universalism, Benevolence"
+The system must include a user-friendly interface that is accessible to people with various disabilities.,"Universalism, Equality"
+The application must allow users to create custom reports based on their specific needs.,"Self-Direction, Achievement"
+The software should include an automatic update feature to keep the system secure and up-to-date.,"Security, Tradition"
+The system must support integration with third-party authentication systems for easier login.,"Benevolence, Self-Direction"
+The software should allow users to track and manage their goals with progress visualization tools.,"Achievement, Self-Direction"
+The system must support secure online transactions and payments for e-commerce applications.,"Security, Power"
+The software should allow users to create and manage tasks within project management tools.,"Achievement, Power"
+The system must ensure privacy and confidentiality by providing user-controlled data access.,"Security, Universalism"
+The application should enable users to create and share public project portfolios.,"Benevolence, Self-Direction"
+The software should provide users with a recommendation engine to suggest relevant content.,"Stimulation, Achievement"
+The system must support seamless file sharing with various devices and platforms.,"Self-Direction, Achievement"
+The software should provide real-time error reporting to improve system reliability.,"Security, Power"
+The system should allow users to participate in community forums to share knowledge and experiences.,"Benevolence, Universalism"
+The software should include built-in tools for mental health and stress management.,"Hedonism, Benevolence"
+The system must support automated backups to prevent data loss.,"Security, Tradition"
+The software should allow users to receive feedback on their work from peers and supervisors.,"Achievement, Benevolence"
+The system must include a feature for tracking customer satisfaction through surveys.,"Benevolence, Achievement"
+The software should allow users to schedule meetings and appointments with calendar integration.,"Self-Direction, Achievement"
+The system must support advanced search functionality to allow users to find relevant information quickly.,"Self-Direction, Power"
+The software should enable users to track the progress of tasks and projects in real-time.,"Achievement, Power"
+The system must include features to facilitate time tracking for project management.,"Achievement, Security"
+The software should allow users to set reminders for important deadlines and milestones.,"Achievement, Self-Direction"
+The system must include a feature to allow users to comment and discuss projects with team members.,"Benevolence, Tradition"
+The software should provide tools to assess user skills and suggest relevant courses for professional development.,"Self-Direction, Achievement"
+The system should allow users to store and organize documents securely in a cloud-based platform.,"Security, Self-Direction"
+The software must allow users to set personal preferences for the user interface.,"Self-Direction, Hedonism"
+The system should provide automated notifications for important updates related to ongoing projects.,"Achievement, Security"
+The software should include tools to assess the impact of different business strategies on performance.,"Achievement, Power"
+The system must allow users to categorize tasks and projects based on priority.,"Achievement, Self-Direction"
+The software should allow users to send and receive secure messages within the platform.,"Security, Benevolence"
+The system must include features for managing user roles and permissions within teams.,"Power, Security"
+The software should allow users to create custom workflows for task automation.,"Self-Direction, Achievement"
+The system must be able to detect and prevent unauthorized access to user accounts.,"Security, Power"
+The software should allow users to track their financial goals and manage budgets.,"Self-Direction, Achievement"
+The system must provide multilingual support for global teams and international users.,"Universalism, Equality"
+The software should include an onboarding process that helps new users get started with the platform.,"Benevolence, Tradition"
+The system must support easy integration with cloud services for data storage and sharing.,"Self-Direction, Power"
+The software should allow users to monitor and control system performance in real-time.,"Power, Achievement"
+The system should allow users to share files and collaborate on documents in real-time.,"Benevolence, Self-Direction"
+The software must support different time zones to accommodate global teams.,"Universalism, Equality"
+"The system should have an intuitive, user-friendly design for quick adoption by new users.","Self-Direction, Stimulation"
+The software should include a feature for tracking employee performance against set goals.,"Achievement, Power"
+The system must allow users to securely upload and store personal documents.,"Security, Self-Direction"
+The software should provide users with insights into their daily work habits to help improve productivity.,"Self-Direction, Achievement"
+The system should allow users to customize their notification preferences for a better experience.,"Self-Direction, Hedonism"
+The software should provide tools for tracking social media engagement to improve marketing efforts.,"Achievement, Stimulation"
+The system should support custom reporting based on different user roles and access levels.,"Power, Security"
+The software should provide tools for analyzing user behavior and predicting future needs.,"Achievement, Stimulation"
+The system should have an automatic mode that adjusts based on user preferences for better performance.,"Self-Direction, Hedonism"
+The software should allow users to track team performance and make adjustments as necessary.,"Power, Achievement"
+The system must allow users to share updates with stakeholders in a secure and organized manner.,"Security, Benevolence"
+The software should include tools for monitoring and improving employee engagement.,"Benevolence, Achievement"
+The system should have a robust data import and export functionality for better data management.,"Self-Direction, Achievement"
+The software must allow users to easily manage subscription services and account settings.,"Self-Direction, Security"
+The system should include tools for data visualization to help users make better business decisions.,"Power, Achievement"
+The software should allow users to monitor real-time performance metrics and identify areas for improvement.,"Power, Achievement"
+The system must allow users to filter content based on preferences and relevant topics.,"Self-Direction, Hedonism"
+The software should support integration with third-party apps to streamline workflows.,"Self-Direction, Power"
+The system must provide tools to automate repetitive tasks to improve efficiency.,"Self-Direction, Achievement"
+The software should have features for organizing and tagging files for easier retrieval.,"Self-Direction, Security"
+The system must allow users to create and manage a list of preferred vendors and partners.,"Achievement, Power"
+The software should allow users to review and evaluate project progress based on key performance indicators (KPIs).,"Achievement, Power"
+The system should support multiple user roles with different access permissions.,"Power, Security"
+The software must include features for securely sharing confidential documents with clients and partners.,"Security, Benevolence"
+The system should enable users to create and manage their personal task list for increased productivity.,"Self-Direction, Achievement"
+The software should allow users to manage tasks by assigning them to different team members.,"Achievement, Power"
+The system must allow users to track their time spent on various tasks for better time management.,"Achievement, Security"
+The software should include tools for organizing and categorizing emails based on urgency and importance.,"Self-Direction, Achievement"
+The system must have an easy-to-use interface for creating and managing project timelines.,"Self-Direction, Achievement"
+The software should allow users to prioritize tasks and goals to align with overall project objectives.,"Achievement, Power"
+The system must allow users to track progress on goals and provide reminders for upcoming deadlines.,"Achievement, Self-Direction"
+The software should allow users to receive personalized content recommendations based on past activity.,"Hedonism, Self-Direction"
+The system must include a feature to assess the quality of project deliverables against set standards.,"Achievement, Power"
+The software should provide analytics on team collaboration patterns to identify improvement areas.,"Achievement, Power"
+The system must include tools for efficient document management and version control.,"Self-Direction, Security"
+The software should support time zone synchronization for global teams.,"Universalism, Equality"
+The system must allow users to set custom alerts for specific business processes and operations.,"Self-Direction, Power"
+The software should include tools for evaluating employee performance and setting future goals.,"Achievement, Power"
+The system should allow users to upload and store media files securely.,"Security, Self-Direction"
+The software must include a system for tracking the progress of business goals over time.,"Achievement, Power"
+The system should include options to customize the visual appearance based on user preferences.,"Self-Direction, Hedonism"
+The software should provide tools for measuring customer engagement and satisfaction.,"Achievement, Benevolence"
+The system must support data encryption to ensure secure user transactions and communications.,"Security, Power"
+The software should provide an easy way to track software updates and install patches as needed.,"Security, Tradition"
+The system should allow users to create custom data dashboards for personalized reporting.,"Self-Direction, Achievement"
+The software should include a user interface for managing user settings and preferences.,"Self-Direction, Hedonism"
+The system must allow users to track personal and team goals through visual progress indicators.,"Achievement, Self-Direction"
+The software should allow users to securely back up and recover data in case of system failure.,"Security, Tradition"
+"The system should include customizable options for project management tools, like task assignment and deadlines.","Self-Direction, Achievement"
+The software must provide tools for tracking the progress of key projects and initiatives.,"Achievement, Power"
