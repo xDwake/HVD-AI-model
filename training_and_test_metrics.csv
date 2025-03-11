@@ -4,3 +4,6 @@ hyperparameters,train_metrics,train_metrics,train_metrics,train_metrics,test_met
 hyperparameters,test_metrics,test_metrics,test_metrics,test_metrics,train_metrics,train_metrics,train_metrics,train_metrics
 ,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64}",0.8920892494929006,0.978494623655914,0.14653784219001612,0.2549019607843137,,,,
+hyperparameters,test_metrics,test_metrics,test_metrics,test_metrics,train_metrics,train_metrics,train_metrics,train_metrics
+,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score
+"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64}",0.8920892494929006,0.978494623655914,0.14653784219001612,0.2549019607843137,,,,
