@@ -1,3 +1,0 @@
-hyperparameters,test_metrics,test_metrics,test_metrics,test_metrics,train_metrics,train_metrics,train_metrics,train_metrics
-,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score
-"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64}",0.8245436105476673,0.1038961038961039,0.05152979066022544,0.0688912809472551,,,,
