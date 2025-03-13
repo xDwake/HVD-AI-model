@@ -3,9 +3,3 @@ hyperparameters,train_metrics,train_metrics,train_metrics,train_metrics,test_met
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 1}",0.8245,0.1738,0.1047,0.1307,tensor(0.7948),0.4167,0.221,0.2888
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 3}",0.9089,0.9433,0.2947,0.4491,tensor(0.8344),0.6146,0.326,0.426
 "{'learning_rate': 2e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 3}",0.9004,0.9924,0.211,0.3479,tensor(0.8198),0.5417,0.2873,0.3755
-hyperparameters,train_metrics,train_metrics.1,train_metrics.2,train_metrics.3,test_metrics,test_metrics.1,test_metrics.2,test_metrics.3,"('hyperparameters', '')","('train_metrics', 'accuracy')","('train_metrics', 'precision')","('train_metrics', 'recall')","('train_metrics', 'f1_score')","('test_metrics', 'accuracy')","('test_metrics', 'precision')","('test_metrics', 'recall')","('test_metrics', 'f1_score')"
-,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score,,,,,,,,,
-"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 1}",0.8245,0.1738,0.1047,0.1307,tensor(0.7948),0.4167,0.221,0.2888,,,,,,,,,
-"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 3}",0.9089,0.9433,0.2947,0.4491,tensor(0.8344),0.6146,0.326,0.426,,,,,,,,,
-"{'learning_rate': 2e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 3}",0.9004,0.9924,0.211,0.3479,tensor(0.8198),0.5417,0.2873,0.3755,,,,,,,,,
-,,,,,,,,,"{'learning_rate': 2e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 4}",0.9067,0.9305,0.2802,0.4307,tensor(0.8135),0.5104,0.2707,0.3538
