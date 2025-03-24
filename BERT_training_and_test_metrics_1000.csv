@@ -2,3 +2,4 @@ hyperparameters,train_metrics,train_metrics,train_metrics,train_metrics,test_met
 ,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 1}",0.8817,0.0996,0.0299,0.046,tensor(0.7927),0.4062,0.2155,0.2816
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 3}",0.9348,0.9204,0.3459,0.5028,tensor(0.8260),0.5729,0.3039,0.3971
+"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.1, 'num_epochs': 3}",0.9591,0.9432,0.6075,0.739,tensor(0.8219),0.5521,0.2928,0.3827
