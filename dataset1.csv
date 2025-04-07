@@ -1178,7 +1178,7 @@ The platform should allow custom tagging for items.,Self-Direction
 Users should be able to export data in PDF format.,Self-Direction
 The system should support third-party login authentication.,Self-Direction
 The application must be responsive on mobile devices.,Universalism
-The platform must support at least 100,000 concurrent users.,Achievement
+"The platform must support at least 100,000 concurrent users.",Achievement
 The website should be optimized for accessibility compliance.,Universalism
 The software should perform efficiently on low-end devices.,Universalism
 The database should automatically scale with increased demand.,Achievement
