@@ -1084,7 +1084,7 @@ The software must maintain a 99.9% uptime.,Security
 Data backups must be conducted every 24 hours.,Security
 The system should comply with WCAG standards for accessibility.,Universalism
 User data must be encrypted both in transit and at rest.,Security
-The application must be compatible with Windows, macOS, and Linux.,Universalism
+"The application must be compatible with Windows, macOS, and Linux.",Universalism
 The platform must be optimized for users with low-bandwidth connections.,Universalism
 Error messages should be clear, user-friendly, and provide actionable solutions.,Benevolence
 Customers should have the option to subscribe to a premium membership.,Achievement
