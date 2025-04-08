@@ -1,7 +1,7 @@
 Requirement,Human Value Category
 The system must allow users to create custom dashboards for data visualization,Self-Direction
 Users should be able to opt out of data collection for marketing purposes,Security
-The platform must support integration with popular social media platforms,Self-Expression
+The platform must support integration with popular social media platforms,Self-Direction
 The application should include a progress tracker for long-term goals,Achievement
 The system should allow parental controls for child accounts,Benevolence
 Users must be able to control which personal information is visible to others,Security
@@ -16,7 +16,7 @@ The application should generate personalized health recommendations,Benevolence
 Managers should be able to assign and track team tasks through the platform,Achievement
 Users must be able to access their data history for at least one year,Self-Direction
 The system should offer gamification elements to increase engagement,Stimulation
-The platform must support group messaging and collaboration features,Self-Expression
+The platform must support group messaging and collaboration features,Self-Direction
 The application should include a night mode to reduce eye strain,Universalism
 The system must allow users to set privacy preferences for different contexts,Security
 Businesses should be able to create branded customer portals,Power
@@ -43,7 +43,7 @@ Users must be able to record and share video content within the platform,Stimula
 The system should provide AI-driven insights on productivity patterns,Achievement
 The platform must include disaster recovery protocols for data protection,Conformity
 The application should support contextual help based on user activity,Benevolence
-Users should be able to create public profiles to showcase their work,Self-Expression
+Users should be able to create public profiles to showcase their work,Self-Direction
 The system must include version control for collaborative document editing,Benevolence
 The platform should provide trend analysis for market fluctuations,Power
 The application must support secure document notarization features,Conformity
@@ -52,7 +52,7 @@ Users must be able to set custom alerts for specific threshold conditions,Securi
 The platform should include a virtual reality mode for immersive experiences,Stimulation
 The application must support printable report generation for offline use,Self-Direction
 The system should provide automated categorization of financial transactions,Achievement
-Users should be able to create shared spaces for group collaboration,Self-Expression
+Users should be able to create shared spaces for group collaboration,Self-Direction
 The platform must include multilevel marketing commission calculations,Power
 The application should support integration with smart home devices,Hedonism
 The system must provide real-time backups for critical operations,Security
@@ -60,7 +60,7 @@ The platform should include language learning tools with pronunciation guides,Se
 Users must be able to set recurring meetings with automated reminders,Achievement
 The application should provide career development tracking and suggestions,Achievement
 The system must support encrypted messaging between team members,Benevolence
-The platform should include customizable branding options for white-label use,Self-Expression
+The platform should include customizable branding options for white-label use,Self-Direction
 Users should be able to track environmental impact of their activities,Universalism
 The application must provide anonymized benchmarking against industry peers,Self-Direction
 The system should include AI-driven content generation tools,Achievement
@@ -76,7 +76,7 @@ The platform must provide real-time collaboration with concurrent editing,Benevo
 Users should be able to create custom labels for personal organization,Self-Direction
 The application must include stress monitoring based on user interaction patterns,Security
 The system should provide adaptive interfaces based on user behavior,Hedonism
-The platform must support multimedia embedding in documentation,Self-Expression
+The platform must support multimedia embedding in documentation,Self-Direction
 Users should be able to create time-limited access links for external collaborators,Security
 The application must include automated quality assurance for content publishing,Conformity
 The system should provide personalized learning paths based on user progress,Achievement
@@ -84,7 +84,7 @@ The platform must support integration with emergency alert systems,Benevolence
 Users should be able to participate in community challenges and competitions,Stimulation
 The application must include conflict resolution tools for collaborative editing,Conformity
 The system should provide automated diversity and inclusion analysis for content,Universalism
-The platform must support custom branding for client-facing documents,Self-Expression
+The platform must support custom branding for client-facing documents,Self-Direction
 Users should be able to create personal knowledge bases with smart tagging,Self-Direction
 The application must include compliance tracking for continuous certification,Conformity
 The system should provide AI-based personal assistant capabilities,Achievement
@@ -93,5 +93,5 @@ Users should be able to set ethical boundaries for AI-driven features,Universali
 The application must include sustainable resource management tools,Universalism
 The system should provide adaptive learning algorithms for personalized training,Self-Direction
 The platform must support transparent algorithm explanations for decision-making,Universalism
-Users should be able to create charitable giving programs through the platform,Self-Expression
+Users should be able to create charitable giving programs through the platform,Self-Direction
 The application must include cultural sensitivity checking for global content,Universalism
