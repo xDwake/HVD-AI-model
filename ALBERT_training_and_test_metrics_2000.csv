@@ -1,3 +1,4 @@
 hyperparameters,train_metrics,train_metrics,train_metrics,train_metrics,test_metrics,test_metrics,test_metrics,test_metrics
 ,accuracy,precision,recall,f1_score,accuracy,precision,recall,f1_score
 "{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 1}",0.85,0.1679,0.0377,0.0615,tensor(0.7115),0.0,0.0,0.0
+"{'learning_rate': 3e-05, 'batch_size': 8, 'max_length': 64, 'weight_decay': 0.01, 'num_epochs': 1}",0.1624,0.1624,0.1624,0.1624,tensor(0.0625),0.0625,0.0625,0.0625
