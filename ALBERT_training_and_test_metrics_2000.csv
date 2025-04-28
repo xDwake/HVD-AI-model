@@ -6,3 +6,4 @@ hyperparameters,train_metrics,train_metrics,train_metrics,train_metrics,test_met
 "{'learning_rate': 2.5e-05, 'batch_size': 8, 'max_length': 64, 'num_epochs': 4}",0.9244,0.9244,0.9244,0.9244,tensor(0.4271),0.3754,0.3249,0.3384
 "{'learning_rate': 1e-05, 'batch_size': 8, 'max_length': 64, 'num_epochs': 4}",0.9462,0.9459,0.9458,0.9455,tensor(0.4479),0.3888,0.3664,0.3666
 "{'learning_rate': 1e-05, 'batch_size': 8, 'max_length': 64, 'num_epochs': 5, 'weight_decay': 0, 'dropout': 0.1}",0.7094,0.7168,0.7036,0.7051,tensor(0.4375),0.3562,0.3732,0.3565
+"{'learning_rate': 1.5e-05, 'batch_size': 8, 'max_length': 32, 'num_epochs': 5, 'weight_decay': 0, 'dropout': 0.1}",0.9403,0.94,0.9402,0.94,tensor(0.3750),0.3656,0.3218,0.3112
