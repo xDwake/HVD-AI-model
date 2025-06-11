@@ -2,7 +2,7 @@ Requirement,Self-direction,Stimulation,Hedonism,Achievement,Power,Security,Confo
 User shall place a meal order from the cafeteria menu.,1,0,0,0,0,0,1,0,0,0
 Menu manager is responsible for creating and maintaining the 'Cafeteria menu'.,0,0,0,1,1,0,1,0,1,0
 User has the option to pick-up the meal at the restaurant or to get the meal delivered to his desired address,1,0,1,0,0,0,0,0,1,0
-In addition to this, user can place multiple items from the menu in a single order.,1,0,1,0,0,0,0,0,0,0
+"In addition to this, user can place multiple items from the menu in a single order.",1,0,1,0,0,0,0,0,0,0
 User shall place a meal order from the other local restaurants menu.,1,1,0,0,0,0,1,0,0,1
 Menu manager is also responsible for creating and maintaining the 'Other local restaurant's menu'.,0,0,0,1,1,0,1,0,1,0
 User has the option to pick-up the meal at the restaurant or to get the meal delivered to his desired address.,1,0,1,0,0,0,0,0,1,0
