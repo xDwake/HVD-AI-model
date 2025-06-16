@@ -244,7 +244,7 @@
 "The Your Orders page provides a 'Return or replace items' option.",0,0,0,0,0,0,0,0,1,0
 "The Your Orders page provides a 'Leave seller feedback' option.",1,0,0,1,0,0,0,0,1,0
 "The Your Orders page provides a 'Write product review' option.",1,0,0,1,0,0,0,0,1,0
-("To return an item, the user needs to click on the 'Return or replace items' button.",0,0,0,0,0,0,0,0,0,0
+"To return an item, the user needs to click on the 'Return or replace items' button.",0,0,0,0,0,0,0,0,0,0
 "Clicking the 'Return or replace items' button displays all the items ordered by the user.",0,0,0,0,0,0,0,0,0,0
 "The user can click the checkmark next to each product they want to return.",1,0,1,0,0,0,0,0,0,0
 "The user must select a reason for return from the drop-down menu on the right-side of the products to be returned.",0,0,0,0,0,0,1,0,0,0
