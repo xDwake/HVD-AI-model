@@ -1,0 +1,1041 @@
+"Requirement",Self-direction,Stimulation,Hedonism,Achievement,Power,Security,Conformity,Tradition,Benevolence,Universalism
+"User shall place a meal order from the cafeteria menu.",1,0,1,0,0,0,1,0,0,0
+"Menu manager is responsible for creating and maintaining the 'Cafeteria menu'.",0,0,0,1,1,0,1,0,1,0
+"User has the option to pick-up the meal at the restaurant or to get the meal delivered to his desired address",1,0,1,0,0,0,0,0,1,0
+"In addition to this, user can place multiple items from the menu in a single order.",1,0,1,0,0,0,0,0,0,0
+"User shall place a meal order from the other local restaurants menu.",1,1,1,0,0,0,1,0,0,1
+"Menu manager is also responsible for creating and maintaining the 'Other local restaurant's menu'.",0,0,0,1,1,0,1,0,1,0
+"User has the option to pick-up the meal at the restaurant or to get the meal delivered to his desired address.",1,0,1,0,0,0,0,0,1,0
+"Cafeteria meal deliverer is responsible for delivering the meal to the user's desired address.",0,0,0,1,0,1,1,0,1,0
+"User has the option to pick-up the meal he subscribed at the restaurant or to get the meal delivered to his desired address.",1,0,1,0,0,0,0,0,1,0
+"In addition to this, user can place multiple items from the menu in a single order.",1,0,1,0,0,0,0,0,0,0
+"User can subscribe a meal plan from the cafeteria menu or from the local restaurant menu.",1,0,1,0,0,0,0,0,0,0
+"Menu manager is responsible for creating and maintaining the various subscription plans for the patrons.",0,1,0,1,1,0,1,0,1,0
+"User has the option to pick-up the meal he subscribed at the restaurant or to get the meal delivered to his desired address.",1,0,1,0,0,0,0,0,1,0
+"Cafeteria meal deliverer is responsible for delivering the meal to the user's desired address.",0,0,0,1,0,1,1,0,1,0
+"User has the option to pick-up the meal he subscribed at the restaurant or to get the meal delivered to his desired address.",1,0,1,0,0,0,0,0,1,0
+"In addition to this, user can place multiple subscriptions from the menu in a single order.",1,0,1,0,0,0,0,0,0,0
+"User can register his card details in COS application.",1,0,1,0,0,1,0,0,0,0
+"User shall maintain those details under 'My Account' button.",1,0,0,0,0,1,1,0,0,0
+"COS will prompt user to use the registered card details or pay using new card at the time of checking out the order before placing it.",1,0,1,0,0,1,0,0,0,0
+"If the user has not registered his card details, user can pay at the time of checking out the order before placing it.",1,0,1,0,0,0,0,0,0,0
+"User has the option to schedule his delivery at his desired time.",1,0,1,0,0,0,0,0,1,0
+"User can change his delivery address before the meal getting picked up by the meal deliver.",1,0,1,0,0,0,0,0,0,0
+"Menu manager is the corporate boss for operating 'Cafeteria Ordering System'.",0,0,0,1,1,0,1,0,0,0
+"Menu manager is responsible for creating and maintaining the 'Cafeteria menu.' And 'Other Local Restaurants menu'.",0,0,0,1,1,0,1,0,1,0
+"Menu manager is responsible for creating and maintaining the various subscription plans for the patrons.",0,1,0,1,1,0,1,0,1,0
+"Menu manager can create, view, modify and delete cafeteria menu.",1,0,0,1,1,0,1,0,0,0
+"User shall order a new meal that is not available in cafeteria menu.",1,1,1,0,0,0,0,0,0,0
+"User shall provide the style of the food and the ingredients to customize the order.",1,1,1,0,0,0,0,0,0,0
+"Menu manager shall create and maintain the recipes and ingredients list available in cafeteria.",0,0,0,1,1,0,1,0,1,0
+"Menu manager tracks the available ingredients and updates it frequently in COS.",0,0,0,1,1,1,1,0,1,0
+"Menu manager is also responsible for creating and maintaining the 'Cafeteria menu' and 'Other Local Restaurants menu'.",0,0,0,1,1,0,1,0,1,0
+"While ordering the custom meals, user picks up the items from 'Recipes and Ingredients list' and places a custom order.",1,1,1,0,0,0,0,0,0,0
+"COS will be accessible outside the cafeteria intranet.",0,0,0,0,0,1,1,0,0,1
+"COS makes use of web-server which hosts the COS functionalities and data that is accessible from elsewhere.",0,0,0,0,0,1,1,0,0,1
+"User has the preference to select a default cuisine.",1,0,1,0,0,0,0,1,0,0
+"User can select Chinese cuisine, Thai food cuisine, Indian cuisine, Native American cuisine, Asian cuisine, Mediterranean cuisine and other types of cuisines.",1,1,1,0,0,0,0,1,0,1
+"Preferring a default cuisine will make the user to adapt his native food style, making the user experience more efficient.",1,0,1,1,0,0,0,1,0,0
+"User also can change or cancel the selected cuisine, at the time he wishes to de-select the selected cuisine.",1,0,1,0,0,0,0,0,0,0
+"User has the preference to register with COS application through Facebook.",1,0,1,0,0,1,0,0,0,0
+"User can share his activities with COS in Facebook, like 'Ordered and Enjoyed Chicken Biriyani from Cafeteria – Simply Delicious'.",1,0,1,0,1,0,0,0,1,0
+"Sharing those activities in Facebook, builds up Cafeteria reputation among the customers.",0,0,0,1,1,0,1,0,1,0
+"Sharing activities in Facebook, promotes Marketability for Cafeteria restaurant.",0,0,0,1,1,0,1,0,1,0
+"The user has the feature to add his feedback about the Quality of food, Quality of Service and Experience in ordering the food through cafeteria.",1,0,1,0,0,0,0,0,1,0
+"Feedback feature will be active to the user after two hours post the meal delivery.",0,0,0,0,0,1,1,0,1,0
+"User's feedback will be monitored directly by the Menu-Manger.",0,0,0,1,1,0,1,0,1,0
+"The COS shall operate on a server running the current corporateapproved versions of Red Hat Linux and Apache HTTP Server.",0,0,0,0,0,1,1,0,0,0
+"The COS shall operate correctly with the following web browsers: Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0.",0,0,0,0,0,1,1,0,0,1
+"The COS shall operate on a server running the current corporateapproved versions of Red Hat Linux and Apache HTTP Server.",0,0,0,0,0,1,1,0,0,0
+"Welcome screen displays the cafeteria logo alongside with a green patch.",0,0,1,0,0,0,0,1,0,0
+"This welcome screen will be displayed whenever a new user opens COS application",0,0,1,0,0,0,1,0,1,0
+"Patrons can sign up or sign in using Facebook",1,0,1,0,0,0,0,0,0,0
+"Patrons can provide their phone number or email ID or COS ID for signing in with COS.",1,0,0,0,0,1,0,0,0,0
+"Patrons can sign-in/sign-up using their Facebook profile.",1,0,1,0,0,0,0,0,0,0
+"Employees shall use employee login for logging in with COS.",0,0,0,0,0,1,1,0,0,0
+"Employees shall provide their employee ID and password for signing in with COS.",0,0,0,0,0,1,1,0,0,0
+"Make a feedback interface will be available to the user only after the meal delivered to the Patron.",0,0,0,0,0,1,1,0,1,0
+"Patron can make a feedback about the order by rating the food quality, rating the delivery service and rating the order experience through COS application.",1,0,1,0,0,0,0,0,1,0
+"Patron can share an activity in Facebook by selecting an order under 'Order History' label.",1,0,1,1,1,0,0,0,1,0
+"Patron shall authorize his Facebook profile to share the activity.",1,0,0,0,0,1,1,0,0,0
+"Patrons can select their default cuisine by selecting an of the listed cuisine under 'Account settings' label.",1,0,1,0,0,0,0,1,0,0
+"Based on the default cuisine preference, Patron's menu will be displayed.",1,0,1,1,0,0,0,1,0,0
+"If a default cuisine is selected, say Indian cuisine, the user will be shown, his default cuisine is Indian which the user is surfing the menu screen for placing the meal order.",1,0,1,0,0,0,0,1,0,0
+"In addition to this, user can de-select default cuisine at any time by clicking the default cuisine button at the menu screen while placing a meal order.",1,0,1,0,0,0,0,0,0,0
+"Patron can place a meal order with having a default cuisine option.",1,0,1,0,0,0,0,1,0,0
+"If a patron has not selected any cuisine preference, the default cuisine will be set to 'ALL'.",0,0,0,0,0,0,1,0,0,1
+"'ALL' cuisine intimates that, Patron is not having any cuisine preference and he will be shown will a complete list of menus.",0,0,0,0,0,0,1,0,0,1
+"Patrons can select default cuisine at the time of registration.",1,0,1,0,0,0,0,1,0,0
+"Patron can select default cuisine from the list of available options.",1,0,1,0,0,0,0,1,0,0
+"If a patron selects 'skip this step' option, the default cuisine will be set to 'ALL'.",1,0,1,0,0,0,1,0,0,1
+"'ALL' cuisine intimates that, Patron is not having any cuisine preference and he will be shown will a complete list of menus.",0,0,0,0,0,0,1,0,0,1
+"Menu Manager logins through COS using his employee ID",0,0,0,0,1,1,1,0,0,0
+"Meal manager has three main options, creating a menu, editing a current menu, and managing the recipes and ingredients list",1,0,0,1,1,0,1,0,1,0
+"Corporate Manager logins with COS application using employee ID",0,0,0,0,1,1,1,0,0,0
+"Corporate Manager selects from and to date for which he wishes to generate reports",1,0,0,1,1,0,1,0,0,0
+"Post selecting the date, he downloads the report by selecting download PDF button.",1,0,0,1,1,0,1,0,0,0
+"Corporate Manager selects from and to date for which he wishes to view the Feedbacks made by the Patrons.",1,0,0,0,1,0,1,0,1,0
+"Post selecting the date, the corporate Manager can view the feedback by selecting 'View' option.",1,0,0,0,1,0,1,0,1,0
+"The system should support more than 1000 user to checkout at the same time.",0,0,0,0,0,1,1,0,1,1
+"The response time of HTTP interfaces should be less than 1 second.",0,0,0,0,0,1,1,0,1,0
+"When the user request data by click on search button, searching result shall be presented on the screen within no more than 2 seconds.",0,0,0,0,0,1,1,0,1,0
+"We should highlight spicy foods and high calorie foods in the menu in case users order the foods that they don't want.",0,0,0,0,0,1,0,0,1,0
+"User's personally information like phone number and credit card information should be encrypted before storing in databases.",0,0,0,0,0,1,1,0,0,0
+"The system should be available 24/7.",0,0,0,0,0,1,1,0,1,1
+"The Android APK size should less than 50M.",0,0,0,0,0,1,1,0,1,0
+"The Cafeteria Ordering System shall enable patron to share Cafeteria activity with Facebook.",1,0,1,0,1,0,0,0,1,0
+"Enabling the user to share the Cafeteria activity in Facebook builds up Cafeteria reputation among the customers.",0,0,0,1,1,0,1,0,1,0
+"Sharing activities in Facebook, promotes Marketability for Cafeteria restaurant.",0,0,0,1,1,0,1,0,1,0
+"The user can set the mobile application to his/her preferred language. (English or Chinese)",1,0,1,0,0,0,0,1,0,1
+"We should use cache to speed up our application.",0,0,0,0,0,1,1,0,1,0
+"Our software should get geographical information about where the user is located by using the GPS inside mobile or computer.",0,0,0,0,0,1,1,0,1,0
+"Other than that we will not use any hardware interfaces.",0,0,0,0,0,0,1,0,0,0
+"Users can login into our system by using their existing Facebooks accounts.",1,0,1,0,0,0,0,0,0,0
+"We use JavaScript SDK for web application and Android/iOS SDK for mobile application to enable people to sign into our application with Facebook login.",0,0,0,0,0,1,1,0,0,1
+"When user clicks on 'login with Facebook', our system redirects to FB login page and submit user's FB login credential.",0,0,0,0,0,1,1,0,0,0
+"When user log into our application with Facebook they can grant permissions to our application, so we can retrieve information on their behalf.",1,0,0,0,0,1,1,0,0,0
+"We should separate reads and writes.",0,0,0,0,0,1,1,0,0,0
+"We should scale our database by using master-slave replication.",0,0,0,0,0,1,1,0,0,0
+"The slave then replicates any write statements finished on the master within 100ms.",0,0,0,0,0,1,1,0,0,0
+"The payments will be processed by the customer's bank organization.",0,0,0,0,0,1,1,0,0,0
+"E-receipt and SMS receipt will be generated as a token of order confirmation.",0,0,0,0,0,1,1,0,1,0
+"COS displays an error message if the user's card details are incorrect or expired and cancels the transaction.",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement allows the user to create, view, modify, and delete meal service subscriptions",1,0,1,0,0,0,0,0,1,0
+"User might change the meal subscription by modifying or deleting the current meal service.",1,0,1,0,0,0,0,0,0,0
+"If user wishes to enroll with a new meal service plan, he can create a new meal service subscription.",1,1,1,0,0,0,0,0,0,0
+"COS generates an 'Acknowledgement message' intimating the user's activity regarding the meal service plan.",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement provides a platform for the users to add his card details for paying the order.",1,0,1,0,0,1,0,0,0,0
+"Registering Patron's card details in advance comforts the meal ordering process for the patron.",0,0,1,1,0,1,0,0,1,0
+"Patrons shall have registered with COS",0,0,0,0,0,1,1,0,0,0
+"Patrons can change or add a new card detail under 'Account Settings' label.",1,0,1,0,0,1,0,0,0,0
+"Account settings label, including Change card details option.",1,0,0,0,0,1,0,0,0,0
+"COS shall display an error message if the Patron's address is invalid.",0,0,0,0,0,1,1,0,1,0
+"COS shall display an error message if the Patron's card details is invalid",0,0,0,0,0,1,1,0,1,0
+"The user will be able to get recommendations of any track manually, i.0,0,0,0,0,0,0,0,1,0e., simply by right clicking",1,0,1,0,0,0,0,0,1,0
+"The user will be able to edit info of any track manually, i.e., simply by right clicking",1,0,0,0,0,0,0,0,0,0
+"The user will be able to update the metadata of any track manually, i.e., simply by right clicking",1,0,0,0,0,0,0,0,0,0
+"The user will be able to increase or decrease or mute the volume of the playing track",1,0,1,0,0,0,0,0,0,0
+"The user will be able to play the track by selecting it or clicking on Play",1,0,1,0,0,0,0,0,0,0
+"The user will be able to pause the track being able to play it again from the same timeline",1,0,1,0,0,0,0,0,0,0
+"The user will be able to move anywhere in the timeline of the track",1,0,1,0,0,0,0,0,0,0
+"The user will be able to stop the track which will close the track, in order for the user to play another track or exit software",1,0,1,0,0,0,0,0,0,0
+"The user will be able to play the next track",1,0,1,0,0,0,0,0,0,0
+"The user will be able to play the previous track",1,0,1,0,0,0,0,0,0,0
+"The user will be able to import music from his external music collection, to the application",1,0,1,0,0,0,0,0,0,0
+"The user will be able to remove any track from the playlist",1,0,1,0,0,0,0,0,0,0
+"The user will be able to import music from his offline music collection which may simply refer to a hard-drive or a flash memory.",1,0,1,0,0,0,0,0,0,0
+"In import stage software will build an Internal Local Store with Information about added tracks.",0,0,0,0,0,1,1,0,1,0
+"User can remove a track from imported music and that will remove the corresponding entry from Local Store",1,0,0,0,0,0,0,0,0,0
+"System should be fast enough to play music and respond to any of the user action in any way without any shattering or buffering, else it will be not be a good experience.",0,0,1,0,0,1,1,0,1,0
+"System should be robust to deal and act accordingly with common error scenarios like no internet connection, unavailable metadata, unsupported file types.",0,0,0,0,0,1,1,0,1,0
+"In case of failures it should be able to fail or recover quickly.",0,0,0,0,0,1,1,0,1,0
+"The software should be able to restrict or warn(in the first place) the user from doing things not suitable, like, increasing volume beyond threshold, or exiting the software w/o saving the changed data.",0,0,0,0,0,1,1,0,1,0
+"Connection between user and MusicBrainz servers should be Encrypted (HTTPS/TLS).",0,0,0,0,0,1,1,0,0,0
+"System should not leak memory.",0,0,0,0,0,1,1,0,1,0
+"System should peacefully co-exist with other software",0,0,0,0,0,1,1,0,1,0
+"System should not cause or trigger any events that will leave Operating System in unrecoverable state",0,0,0,0,0,1,1,0,1,0
+"This software is an Open Source software.",0,0,0,0,0,0,1,0,0,1
+"Unless required by applicable law or agreed to in writing, software distributed is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",0,0,0,0,0,0,1,0,0,0
+"Draw handwritten numerical digits on the GUI (Graphical User Interface) of the software.",0,0,0,0,0,0,0,0,0,0
+"The user will be able to predict the handwritten digit drawn earlier on the interface.",0,0,0,1,0,0,0,0,0,0
+"The user will be able to get the accuracy of the digit predicted by the software.",0,0,0,1,0,0,0,0,0,0
+"If need be, the software will support Alphabet prediction as well.",0,0,0,0,0,0,0,0,0,1
+"The software shall support text-to-speech functionality in future versions too.",0,0,0,0,0,0,0,0,0,1
+"Inputs the image containing handwritten text that he/she wants to be detected.",0,0,0,0,0,0,0,0,0,0
+"Checks for the accuracy of the Digit Recognition.",0,0,0,1,0,0,0,0,0,0
+"Copies the recognized digits to the clipboard.",0,0,0,0,0,0,0,0,0,0
+"Convert the output prediction from text to speech.",0,0,0,0,0,0,0,0,0,1
+"Submit feedback to the admin for improvement in predictions.",0,0,0,0,0,0,0,0,1,0
+"Admin has the full access to the system which means he is able to manage any activity with regard to the system.",0,0,0,0,1,0,0,0,0,0
+"He is the highest privileged user who can access the system.",0,0,0,0,1,0,0,0,0,0
+"The data collected through the constant usage (trial and error, elimination) and the already stored data is backed up to archival storage.",0,0,0,0,0,1,0,0,0,0
+"The backup will be stored as Cloud storage, so that it can be accessed easily even when the physical database gets lost, destroyed, etc.",0,0,0,0,0,1,0,0,0,0
+"All the administrative and data entry operators have unique logins so the system can understand who logs in to the system at the moment so no intruders are allowed except system controlled administrative.",0,0,0,0,0,1,1,0,0,0
+"No user or administrator can change or record valuable data.",0,0,0,0,0,1,0,0,0,0
+"The product will be reliable enough to sustain in any condition.",0,0,0,0,0,1,0,0,0,0
+"It will give consistently correct results.",0,0,0,1,0,1,0,0,0,0
+"Product reliability is measured in terms of working of the project under different working environment and different conditions.",0,0,0,1,0,1,0,0,0,0
+"Different versions of the product would be easy to maintain.",0,0,0,1,0,0,0,0,0,0
+"While developing it would be easy to add more lines of code to the existing system, and will also be easy to upgrade for new features and new technologies from time to time.",0,0,0,1,0,0,0,0,0,0
+"Maintenance will be cost-effective and easy",0,0,0,1,0,0,0,0,0,0
+"The application would be user-friendly.",0,0,1,0,0,0,0,0,1,0
+"Should be easy to learn for all kinds of users from all age groups and qualifications.",0,0,1,0,0,0,0,0,1,1
+"Navigation will also be simple.",0,0,1,0,0,0,0,0,1,0
+"It will also be easy to use for input preparation, operation, and interpretation of the output.",0,0,1,0,0,0,0,0,1,0
+"The application should be correct in terms of its functionality, calculations used internally and the navigation should be correct.",0,0,0,1,0,1,0,0,0,0
+"This means the application should adhere to functional requirements.",0,0,0,0,0,0,1,0,0,0
+"Time required to complete any task given to the system will be very less thereby rendering a very efficient product.",0,0,0,0,0,1,0,0,1,0
+"The system utilizes processor capacity, disk space and memory efficiently.",0,0,0,0,0,1,0,0,1,0
+"The system will be easy to test and find defects and easy to divide into different modules for testing whenever necessary.",0,0,0,0,0,1,0,0,1,0
+"The project is flexible enough to modify and adaptable to other products with which an interaction is needed.",0,0,0,0,0,1,0,0,1,0
+"It is easy to interface it with other standard 3rd party components",0,0,0,0,0,1,0,0,1,0
+"The home page of this online shopping system is designed to be attractive and user friendly.",0,0,1,0,0,0,0,0,1,0
+"The home page includes a search bar.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Sign in button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Cart button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Returns & Orders button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Today's Deals button.",0,0,1,0,0,0,0,0,0,0
+"The home page includes a User's Amazon.com link/button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Customer Service link/button.",0,0,0,0,0,0,0,0,1,0
+"The home page includes a Buy Again link/button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Browse History link/button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Gift Cards link/button.",0,0,0,0,0,0,0,0,1,0
+"The home page includes a Sell link/button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Registry link/button.",0,0,0,0,0,0,0,0,0,0
+"The home page includes a Change Language Option.",0,0,0,0,0,0,0,0,0,1
+"The home page includes a Delivery Address option.",0,0,0,0,0,0,0,0,0,0
+"The home page includes an All Options & Categories menu/button.",0,0,0,0,0,0,0,0,0,0
+"The home page displays the top selling products in some of the popular categories like electronics, clothing, skin care etc.",0,0,0,0,0,0,0,0,0,0
+"The home page advertises the current sales, discounts and offers.",0,0,1,0,0,0,0,0,0,0
+"The Sign in page allows users with an account to sign in.",0,0,0,0,0,0,0,0,0,0
+"Users can sign in using their phone number.",0,0,0,0,0,1,0,0,0,0
+"Users can sign in using their email id.",0,0,0,0,0,1,0,0,0,0
+"The system asks the user to enter the password if the entered email id or phone number is valid.",0,0,0,0,0,1,0,0,0,0
+"If the password is entered correctly, the user is taken to the homepage.",0,0,0,0,0,0,0,0,0,0
+"The user name is displayed on the top navigation bar after successful sign-in.",0,0,0,0,0,0,0,0,0,0
+"If the entered email id or phone number is wrong, the system displays an error message saying 'Incorrect email id (or phone number)'.",0,0,0,0,0,0,0,0,1,0
+"If the entered email id or phone number is wrong, the system displays an error message saying 'We can not find an account with that email id (or phone number)'.",0,0,0,0,0,0,0,0,1,0
+"If the email id or phone number entered by the user is valid and the password entered is invalid, then the system displays an error message saying 'There was a problem'.",0,0,0,0,0,0,0,0,1,0
+"If the email id or phone number entered by the user is valid and the password entered is invalid, then the system displays an error message saying 'Your password is incorrect'.",0,0,0,0,0,0,0,0,1,0
+"The Sign in page has a 'Keep me signed in' checkbox.",0,0,1,0,0,0,0,0,0,0
+"If the user checks the 'Keep me signed in' checkbox, the system keeps the user signed in.",0,0,1,0,0,0,0,0,0,0
+"The sign in page has a 'Create Your Amazon Account' button for new users.",0,0,0,0,0,0,0,0,1,0
+"Clicking the 'Create Your Amazon Account' button takes the user to the Create Account page.",0,0,0,0,0,0,0,0,0,0
+"The sign in page has a 'Forgot Password' link.",0,0,0,0,0,0,0,0,1,0
+"The sign in page has a 'Conditions of Use' link.",0,0,0,0,0,0,1,0,0,0
+"The sign in page has a 'Privacy Notice' link.",0,0,0,0,0,1,0,0,0,0
+"The sign in page has a 'Help' link.",0,0,0,0,0,0,0,0,1,0
+"The sign in page has an 'Other Issues with sign in' link.",0,0,0,0,0,0,0,0,1,0
+"Clicking 'Forgot Password' takes the user to the appropriate page.",0,0,0,0,0,0,0,0,1,0
+"Clicking 'Conditions of Use' takes the user to the appropriate page.",0,0,0,0,0,0,1,0,0,0
+"Clicking 'Privacy Notice' takes the user to the appropriate page.",0,0,0,0,0,1,0,0,0,0
+"Clicking 'Help' takes the user to the appropriate page.",0,0,0,0,0,0,0,0,1,0
+"Clicking 'Other Issues with sign in' takes the user to the appropriate page.",0,0,0,0,0,0,0,0,1,0
+"The Create Account page allows users to create a new account.",1,0,1,0,0,1,0,0,1,0
+"The user is asked to provide their Name on the Create Account page.",0,0,0,0,0,0,0,0,0,0
+"The user is asked to provide their Email id on the Create Account page.",0,0,0,0,0,0,0,0,0,0
+"The user is asked to provide their password on the Create Account page.",0,0,0,0,0,1,0,0,0,0
+"The password must contain at least 6 characters.",0,0,0,0,0,1,1,0,0,0
+"The user is asked to re-enter the password on the Create Account page.",0,0,0,0,0,1,0,0,0,0
+"The user can create a new account by clicking on the 'Create your Amazon Account' button.",1,0,1,0,0,1,0,0,1,0
+"The Create Account page provides a 'Conditions of Use' link.",0,0,0,0,0,0,1,0,0,0
+"The Create Account page provides a 'Privacy Notice' link.",0,0,0,0,0,1,0,0,0,0
+"The Create Account page provides a 'Help' link.",0,0,0,0,0,0,0,0,1,0
+"Clicking 'Conditions of Use' on the Create Account page takes the user to the appropriate page.",0,0,0,0,0,0,1,0,0,0
+"Clicking 'Privacy Notice' on the Create Account page takes the user to the appropriate page.",0,0,0,0,0,1,0,0,0,0
+"Clicking 'Help' on the Create Account page takes the user to the appropriate page.",0,0,0,0,0,0,0,0,1,0
+"There is a sign-in field on the Create Account page for users who already have an account.",0,0,0,0,0,0,0,0,1,0
+"Clicking the sign-in field on the Create Account page takes the user to the sign in page.",0,0,0,0,0,0,0,0,0,0
+"There is a field for creating a business account on the Create Account page.",0,0,0,0,0,0,0,0,0,0
+"After clicking on the 'Create a Business Account' field, the user will be taken to the business account creation page.",0,0,0,0,0,0,0,0,0,0
+"The account creation step is followed by the steps providing business details.",0,0,0,0,0,0,1,0,0,0
+"The account creation step is followed by the verification process.",0,0,0,0,0,1,0,0,0,0
+"After providing business details and completing the verification process, the business account creation will be completed.",0,0,0,0,0,0,1,0,0,0
+"The Returns & Orders page provides the user with complete information about their orders.",0,0,0,0,0,0,0,0,1,0
+"The Returns & Orders page has a 'Your Orders' field.",0,0,0,0,0,0,0,0,0,0
+"The Returns & Orders page has an 'Open Orders' field.",0,0,0,0,0,0,0,0,0,0
+"The Returns & Orders page has a 'Buy Again' field.",0,0,0,0,0,0,0,0,0,0
+"The Returns & Orders page has a 'Digital Orders' field.",0,0,0,0,0,0,0,0,0,0
+"The Returns & Orders page has a 'Cancelled Orders' field.",0,0,0,0,0,0,0,0,0,0
+"The Your Orders page gives information about all the orders placed by the user.",0,0,0,0,0,0,0,0,1,0
+"The Your Orders page provides a 'Buy it again' option.",0,0,1,0,0,0,0,0,0,0
+"The Your Orders page provides a 'View your item' option.",0,0,0,0,0,0,0,0,0,0
+"The Your Orders page provides a 'Track Package' option.",0,0,0,0,0,0,0,0,1,0
+"The Your Orders page provides a 'Return or replace items' option.",0,0,0,0,0,0,0,0,1,0
+"The Your Orders page provides a 'Leave seller feedback' option.",1,0,0,1,0,0,0,0,1,0
+"The Your Orders page provides a 'Write product review' option.",1,0,0,1,0,0,0,0,1,0
+("To return an item, the user needs to click on the 'Return or replace items' button.",0,0,0,0,0,0,0,0,0,0
+"Clicking the 'Return or replace items' button displays all the items ordered by the user.",0,0,0,0,0,0,0,0,0,0
+"The user can click the checkmark next to each product they want to return.",1,0,1,0,0,0,0,0,0,0
+"The user must select a reason for return from the drop-down menu on the right-side of the products to be returned.",0,0,0,0,0,0,1,0,0,0
+"Optionally the user can also briefly explain the problem in the text box that appears below the drop-down menu.",1,0,1,0,0,0,0,0,0,0
+"The text box for explaining the problem appears once the reason for return is selected.",0,0,0,0,0,0,0,0,0,0
+"The user is taken to the next page on clicking 'Continue' after selecting items and reason for return.",0,0,0,0,0,0,0,0,0,0
+"In the next page after selecting items and reason for return, the user will be offered a way to resolve the problem.",0,0,0,0,0,0,0,0,1,0
+"The default resolution for a return is Refund.",0,0,0,0,0,0,1,0,0,0
+"The user is taken to the next page on clicking 'Continue' after selecting the resolution.",0,0,0,0,0,0,0,0,0,0
+"In the next page after selecting the resolution, the user can schedule a pickup.",1,0,1,0,0,0,0,0,0,0
+"A pickup date has to be selected from the drop-down menu.",0,0,0,0,0,0,1,0,0,0
+"The user's delivery address will be displayed by default for pickup.",0,0,1,0,0,0,0,0,0,0
+"The user can change the pickup address by clicking on 'Change address'.",1,0,1,0,0,0,0,0,0,0
+"The return process is completed when the user clicks 'Submit'.",0,0,0,0,0,0,1,0,0,0
+"The 'Open Orders' field provides the user with complete information about orders that have been placed but not yet shipped.",0,0,0,0,0,0,0,0,1,0
+"The 'Buy Again' field allows the user to repurchase items they have previously ordered.",0,0,1,0,0,0,0,0,0,0
+"The 'Cancelled orders' field provides the user with information about all the orders they have cancelled.",0,0,0,0,0,0,0,0,1,0
+"The 'Digital Orders' field provides the user with information about all digital purchases or orders they have made.",0,0,0,0,0,0,0,0,1,0
+"The Cart page allows the user to save items they wish to buy.",1,0,1,0,0,0,0,0,0,0
+"The Cart page provides information about all items added to the cart by the user.",0,0,0,0,0,0,0,0,1,0
+"For each item in the cart, a 'Delete' functionality is provided.",1,0,1,0,0,0,0,0,0,0
+"For each item in the cart, a 'Save for later' functionality is provided.",1,0,1,0,0,0,0,0,0,0
+"For each item in the cart, a 'Compare with similar items' functionality is provided.",1,0,1,0,0,0,0,0,0,0
+"The user can select all the items they wish to buy from the cart by clicking the checkbox next to each item.",1,0,1,0,0,0,0,0,0,0
+"The user can select the 'Proceed to check out' button to proceed with purchasing selected item(s) from the cart.",1,0,1,0,0,0,0,0,0,0
+"The User's Amazon.com page provides the user some information about their activities in the online shopping system.",0,0,0,0,0,0,0,0,1,0
+"The User's Amazon.com page includes a 'Your Browse History' field.",0,0,0,0,0,0,0,0,0,0
+"The User's Amazon.com page includes a 'Your profile' field.",0,0,0,0,0,0,0,0,0,0
+"The User's Amazon.com page includes a 'Recommended for you' field.",0,0,0,0,0,0,0,0,1,0
+"The User's Amazon.com page includes an 'Improve your recommendations' field.",1,0,0,1,0,0,0,0,0,0
+"'Your Browse History' field provides the user with information about the items they have searched.",0,0,0,0,0,0,0,0,1,0
+"The 'Recommended for you' section lets the user find new products that may interest them.",0,1,1,0,0,0,0,0,1,0
+"New products will be recommended based on the history of the user's orders.",0,0,0,0,0,0,0,0,1,0
+"New products will be recommended based on the user's evaluations.",0,0,0,0,0,0,0,0,1,0
+"The system will compare the user's tastes with those of other clients in order to suggest certain products.",0,0,0,0,0,0,0,0,1,0
+"The 'Improve your recommendations' section allows the user to refine their product recommendations.",1,0,0,1,0,0,0,0,0,0
+"The user can rate their top product picks to refine their recommendations.",1,0,0,1,0,0,0,0,0,0
+"If the user does not want their recommendations to be based on a particular product, they can check the box against that product.",1,0,0,0,0,0,0,0,0,0
+"If the user does not want their recommendations to be based on a particular product, they can select the option 'Don't use for recommendations'.",1,0,0,0,0,0,0,0,0,0
+"The Change Language Option allows the user to select their preferred language for Browse.",1,0,1,0,0,0,0,0,0,1
+"The Change Language Option allows the user to select their preferred language for shopping.",1,0,1,0,0,0,0,0,0,1
+"The Change Language Option allows the user to select their preferred language for communications.",1,0,1,0,0,0,0,0,0,1
+"The user can select their preferred language and click on save changes button.",1,0,1,0,0,0,0,0,0,0
+"The Delivery Address Field allows the user to change the location of delivery of the products.",1,0,1,0,0,0,0,0,0,0
+"The user can also specify a default address for the deliveries.",1,0,1,0,0,0,0,0,0,0
+"The User Account and Lists Field provides the users with various functionalities and account details.",0,0,0,0,0,0,0,0,1,0
+"The User Account and Lists Field includes 'Your Orders'.",0,0,0,0,0,0,0,0,1,0
+"The User Account and Lists Field includes 'Your payments'.",0,0,0,0,0,1,0,0,0,0
+"The User Account and Lists Field includes 'Login and security'.",0,0,0,0,0,1,0,0,0,0
+"The User Account and Lists Field includes 'Recommendations'.",0,0,0,0,0,0,0,0,1,0
+"The Options and Categories Field displays various categories of products from which the user can shop.",0,0,1,0,0,0,0,0,1,0
+"The Options and Categories Field also provides various programs and features of this online shopping system.",0,0,1,0,0,0,0,0,1,0
+"The Options and Categories Field provides various help options for the convenience of the users.",0,0,0,0,0,0,0,0,1,0
+"The Options and Categories Field provides various settings options for the convenience of the users.",0,0,1,0,0,0,0,0,1,0
+"Users can view complete product information by clicking on products.",0,0,0,0,0,0,0,0,1,0
+"The Product Details Page displays one or more images of the product.",0,0,0,0,0,0,0,0,0,0
+"The Product Details Page displays the product's name.",0,0,0,0,0,0,0,0,0,0
+"The Product Details Page displays the product's features.",0,0,0,0,0,0,0,0,0,0
+"The Product Details Page displays the product's price.",0,0,0,0,0,0,0,0,0,0
+"The Product Details Page displays the brand that is selling the product.",0,0,0,0,0,0,0,0,0,0
+"Users can add a product to the cart from the product details page by clicking 'Add to cart'.",1,0,1,0,0,0,0,0,0,0
+"Users can buy a product directly from the product details page by clicking 'Buy now'.",1,0,1,0,0,0,0,0,0,0
+"Clicking the 'Buy now' button prompts the user to select a payment method.",0,0,0,0,0,0,0,0,0,0
+"Users must select a payment method to proceed with a direct purchase using 'Buy now'.",0,0,0,0,0,0,1,0,0,0
+"Clicking the 'Continue' button after selecting a payment method proceeds to order placement.",0,0,0,0,0,0,0,0,0,0
+"The system provides the billing details of the product to the user before placing the order.",0,0,0,0,0,0,0,0,1,0
+"Users can review the order before placing it.",1,0,0,0,0,1,0,0,0,0
+"Users can edit the delivery address before placing the order.",1,0,1,0,0,0,0,0,0,0
+"Users can complete placing the order by clicking the 'Place your order' button.",1,0,1,0,0,0,0,0,0,0
+"The system sends an order confirmation message to the user's phone number after the order is placed.",0,0,0,0,0,0,0,0,1,0
+"The online shopping system is accessible through the internet.",0,0,0,0,0,0,0,0,0,1
+"The online shopping system is accessible on any Operating System.",0,0,0,0,0,0,0,0,0,1
+"The online shopping system is compatible with Unix Operating System.",0,0,0,0,0,0,1,0,0,0
+"The online shopping system is compatible with Linux Operating System.",0,0,0,0,0,0,1,0,0,0
+"The online shopping system is compatible with Mac Operating System.",0,0,0,0,0,0,1,0,0,0
+"The online shopping system is compatible with Windows Operating System.",0,0,0,0,0,0,1,0,0,0
+"The system stores product data in multiple databases.",0,0,0,0,0,1,0,0,0,0
+"The system stores customer data in multiple databases.",0,0,0,0,0,1,0,0,0,0
+"The system stores seller data in multiple databases.",0,0,0,0,0,1,0,0,0,0
+"The databases are present in data centres located at various geographical locations.",0,0,0,0,0,1,0,0,0,0
+"The online shopping system shall communicate with the content manager to get the product specifications.",0,0,0,0,0,0,0,0,0,0
+"Product specifications are provided to the users in the Product Specification page.",0,0,0,0,0,0,0,0,1,0
+"The content manager gets various information about the product from the system's databases.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product images to be displayed to users.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product name to be displayed to users.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product features to be displayed to users.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product price to be displayed to users.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product brand to be displayed to users.",0,0,0,0,0,0,0,0,0,0
+"The content manager provides product reviews to be displayed to users.",0,0,0,0,0,0,0,0,1,0
+"The content manager provides product ratings to be displayed to users.",0,0,0,0,0,0,0,0,1,0
+"The system shall communicate with the bill-paying system.",0,0,0,0,0,0,0,0,0,0
+"The system identifies the available payment methods through the bill-paying system.",0,0,0,0,0,0,0,0,0,0
+"The system validates the payments through the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"The system processes the payments through the bill-paying system.",0,0,0,0,0,0,0,0,0,0
+"Customer email id is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Customer phone number is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Selected bill payment method is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Product id of the products selected to be purchased is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Quantities of the products selected to be purchased are shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Prices of the products selected to be purchased are shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Payment details are shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Card number is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Name on the card is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"Expiration date is shared with the bill-paying system.",0,0,0,0,0,1,0,0,0,0
+"The system shall communicate with the credit management system for handling financing options.",0,0,0,0,0,0,0,0,0,0
+"Total price is shared with the credit management system.",0,0,0,0,0,1,1,0,0,0
+"Payment method is shared with the credit management system.",0,0,0,0,0,1,1,0,0,0
+"Payment details are shared with the credit management system.",0,0,0,0,0,1,1,0,0,0
+"The system shall communicate with the Sales system for order management.",0,0,0,0,0,1,1,0,0,0
+"The Sales system manages orders placed by customers.",0,0,0,0,0,1,0,0,1,0
+"Order management by the Sales system is based on order details.",0,0,0,0,0,1,1,0,0,0
+"Order management by the Sales system is based on the date & time when the order was placed.",0,0,0,0,0,1,1,0,0,0
+"Order management by the Sales system is based on the delivery address of the product(s).",0,0,0,0,0,1,1,0,0,0
+"Order management by the Sales system is based on the approximate delivery date.",0,0,0,0,0,1,1,0,0,0
+"The system shall communicate with the shipping system for tracking orders.",0,0,0,0,0,1,1,0,1,0
+"The system shall communicate with the shipping system for updating of shipping methods.",0,0,0,0,0,1,1,0,0,0
+"Once an order is placed, the shipping system is responsible for updating users about the shipping process.",0,0,0,0,0,1,1,0,1,0
+"The shipping system provides updates to customers by sending messages to their phone number.",0,0,0,0,0,1,1,0,1,0
+"The shipping system provides updates to customers by sending messages to their email id.",0,0,0,0,0,1,1,0,1,0
+"The user can access the online shopping system through the internet by searching the system's name on the web browser.",1,0,0,0,0,0,0,0,0,0
+"The system shall use the HTTP protocol for communication over the internet.",0,0,0,0,0,1,1,0,0,0
+"The system shall give a confirmation to the customer that their order is placed by sending a message to the customer's email id.",0,0,0,0,0,1,1,0,1,0
+"The system shall give a confirmation to the customer that their order is placed by sending a message to the customer's phone number.",0,0,0,0,0,1,1,0,1,0
+"The system also provides follow up messages to the customer's phone number to update about the shipping process.",0,0,0,0,0,1,1,0,1,0
+"The system also provides follow up messages to the customer's email id to update about the shipping process.",0,0,0,0,0,1,1,0,1,0
+"Follow up messages include updates like 'product is dispatched from the site'.",0,0,0,0,0,1,1,0,1,0
+"Follow up messages include updates like 'product shall arrive in 2 days'.",0,0,0,0,0,1,1,0,1,0
+"Users from both subsystems- customers and sellers must have an account to conduct transactions on the shopping system.",0,0,0,0,0,1,1,0,0,0
+"Users without system accounts will only have Browse permissions from the home page.",1,0,0,0,0,1,1,0,0,0
+"Users without system accounts do not have options to purchase goods on the system.",0,0,0,0,0,1,1,0,0,0
+"Users without system accounts do not have options to list goods on the system.",0,0,0,0,0,1,1,0,0,0
+"Customer accounts will hold information about their name.",0,0,0,0,0,1,1,0,0,0
+"Customer accounts will hold information about their email id or phone number.",0,0,0,0,0,1,1,0,0,0
+"Customer accounts will hold information about their password.",0,0,0,0,0,1,1,0,0,0
+"Both customers and sellers can view their accounts.",1,0,0,0,0,1,0,0,0,0
+"Both customers and sellers can login to their accounts.",1,0,0,0,0,1,0,0,0,0
+"Both customers and sellers can edit account details in the future.",1,0,0,0,0,1,0,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including name.",0,0,0,0,0,1,1,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including contact.",0,0,0,0,0,1,1,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including gst number.",0,0,0,0,0,1,1,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including pan.",0,0,0,0,0,1,1,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including licenses.",0,0,0,0,0,1,1,0,0,0
+"Seller accounts hold information relevant to the selling organization or individual including address.",0,0,0,0,0,1,1,0,0,0
+"Users can select the signup button on the home page for registration.",1,0,0,0,0,0,0,0,0,0
+"Users can select the login button on the home page for login.",1,0,0,0,0,0,0,0,0,0
+"Users can type in their credentials for registration.",1,0,0,0,0,1,0,0,0,0
+"Users can type in their credentials for login.",1,0,0,0,0,1,0,0,0,0
+"Upon matching the required criteria for registration, the account will get created.",0,0,0,0,0,1,1,0,0,0
+"Upon account creation, the login page is displayed.",0,0,0,0,0,1,1,0,0,0
+"Upon matching the required criteria for login, the user is logged in to his/her account.",0,0,0,0,0,1,1,0,0,0
+"Upon successful login, the home page is displayed.",0,0,0,0,0,1,1,0,0,0
+"To edit account details, the edit button may be clicked.",1,0,0,0,0,0,0,0,0,0
+"To view account details, the view button may be clicked.",1,0,0,0,0,0,0,0,0,0
+"To edit details, the user may type in the new details.",1,0,0,0,0,0,0,0,0,0
+"To edit details, the user may click on save changes.",1,0,0,0,0,0,0,0,0,0
+"Upon validating the changes, the edited details are successfully updated.",0,0,0,1,0,1,0,0,0,0
+"The system shall allow customers to register accounts.",1,0,1,0,0,1,0,0,0,0
+"The system shall allow sellers to register accounts.",1,0,1,0,0,1,0,0,0,0
+"The system shall display a signup page for registration.",0,0,0,0,0,0,0,0,1,0
+"Customers shall enter their name during registration.",0,0,0,0,0,0,1,0,0,0
+"Customers shall enter their email-id or phone number during registration.",0,0,0,0,0,0,1,0,0,0
+"Customers shall enter their password during registration.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their name during registration.",0,0,0,0,0,0,1,0,0,0
+"Sellers shall enter their email-id or phone number during registration.",0,0,0,0,0,0,1,0,0,0
+"Sellers shall enter their gst no during registration.",0,0,0,0,0,0,1,0,0,0
+"Upon successful registration, the login page shall be displayed.",0,0,0,0,0,0,1,0,0,0
+"In case of repeated email id during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid email id during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of repeated phone number during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid phone number during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"The system shall allow customers to view their account details.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow sellers to view their account details.",1,0,0,0,0,1,0,0,0,0
+"Users shall click the 'view account details' button in the home page to view account details.",1,0,0,0,0,0,0,0,0,0
+"The system shall display account details that were filled by the user at the time of creating account.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow customers to login.",1,0,1,0,0,1,0,0,0,0
+"The system shall allow sellers to login.",1,0,1,0,0,1,0,0,0,0
+"The system shall display a login page.",0,0,0,0,0,0,0,0,1,0
+"Customers shall enter their registered email-id or phone number during login.",0,0,0,0,0,1,1,0,0,0
+"Customers shall enter their password during login.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their registered email-id or phone number during login.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their password during login.",0,0,0,0,0,1,1,0,0,0
+"Upon successful login, the home page shall be displayed.",0,0,0,1,0,1,1,0,0,0
+"In case of invalid email id during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid phone number during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"In case of a mismatch between user id and password during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"The system shall allow customers to logout.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow sellers to logout.",1,0,0,0,0,0,0,0,0,0
+"Users shall click the 'logout' button in home page to logout.",1,0,0,0,0,0,0,0,0,0
+"Upon logout, the user is logged out of the account.",0,0,0,0,0,1,1,0,0,0
+"Upon logout, the Login page will be displayed.",0,0,0,0,0,0,1,0,0,0
+"COS shall display an error message if the Patron's card details are invalid.",0,0,0,0,0,1,0,0,1,0
+"This Functional Requirement allows the user to request for a meal delivery",1,0,1,0,0,0,0,0,0,0
+"User may update his delivery options after placing an order.",1,0,1,0,0,0,0,0,0,0
+"User should provide updated delivery location before the meal has been picked by the meal deliverer.",0,0,0,0,0,0,1,0,1,0
+"COS displays a 'Delivery location updated successfully' message to the user.",0,0,0,1,0,1,0,0,1,0
+"If the order is out for the delivery, COS displays an error message 'Delivery location cannot be updated as the meal is out for the delivery'.",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement allows the menu manager to create, view, modify, and delete cafeteria menus",1,0,0,1,1,0,0,0,1,0
+"Menu manager can display the 'Deal of the day' in the menu screen.",0,0,0,0,1,0,0,0,1,0
+"COS displays a 'Menu updated successfully' message to the menu manager.",0,0,0,1,0,1,0,0,0,0
+"This Functional Requirement allows the user order custom meals that aren't on the cafeteria menu.",1,0,1,0,0,0,0,0,0,0
+"COS displays a 'Customized order successfully placed' message to the user.",0,0,0,1,0,1,0,0,1,0
+"COS displays an error message if the user's customized order dint match with cafeteria ingredients.",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement allows the menu manager to produce recipes and ingredient lists for custom meals from cafeteria",0,0,0,1,1,0,0,0,1,0
+"Menu manager should maintain the recipes and ingredients list available in cafeteria.",0,0,0,1,0,0,1,0,1,0
+"Menu manager tracks the available ingredients and updates it frequently in COS.",0,0,0,1,0,1,1,0,1,0
+"COS displays a 'Recipe and ingredient list updated successfully' message to the menu manager.",0,0,0,1,0,1,0,0,1,0
+"This Functional Requirement allows the cafeteria employees to access COS outside corporate internet.",1,0,1,0,0,0,0,0,0,0
+"Cafeteria employees should enroll with COS using their employee id.",0,0,0,0,0,1,1,0,0,0
+"Cafeteria employees should own a personal device such as mobile phone or personal computer to access COS outside their corporate environment.",0,0,0,0,0,0,1,0,0,0
+"COS displays an 'Employee registration completed successfully' message to the cafeteria employees.",0,0,0,1,0,1,0,0,1,0
+"COS displays an error message if the employee id is invalid.",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement allows the user to login his COS account through Facebook",1,0,1,0,0,1,0,0,0,0
+"User should be registered with COS using Facebook profile.",0,0,0,0,0,1,1,0,0,0
+"If the user is accessing his COS account in web browser, the user may login using his COS id and password or through Facebook.",1,0,1,0,0,1,0,0,0,0
+"COS displays 'Welcome back' message to the user.",0,0,0,0,0,0,0,0,1,0
+"COS displays an error message if the user id or password is incorrect.",0,0,0,0,0,1,0,0,1,0
+"This Functional Requirement allows the user to set his default meal preference.",1,0,1,0,0,0,0,0,0,0
+"User must have installed COS application",0,0,0,0,0,0,1,0,0,0
+"Setting up default meal preference is a part of user's initial registration activity with COS.",1,0,1,0,0,0,0,0,0,0
+"User might wish to order his favorite cuisine rather than surfing the entire menu.",1,0,1,0,0,0,0,0,0,0
+"For this case, user might set his meal preference, making the application more user-friendly.",1,0,1,0,0,0,0,0,1,0
+"COS displays a 'registration completed' message to the user.",0,0,0,1,0,1,0,0,1,0
+"If the user skips this step during registration, COS assumes the user has no default meal preference.",1,0,0,0,0,0,0,0,0,0
+"This Functional Requirement allows the user rate and review the meal service provided by COS.",1,0,1,1,0,0,0,0,1,0
+"'Add my rating' feature is accessible to user, once the meal delivered to the user successfully.",1,0,0,0,0,0,0,0,0,0
+"User can rate and review by taste, delivery service, and restaurant.",1,0,1,1,0,0,0,0,1,0
+"Generate a message intimating 'Thanks for your feedback'.",0,0,0,0,0,0,0,0,1,0
+"This Functional Requirement allows the user to track his order status",1,0,0,0,0,1,0,0,1,0
+"Tracking order status shall be enabled as the part of user's order history.",0,0,0,0,0,1,0,0,1,0
+"User shall be able to track about his order.",1,0,0,0,0,1,0,0,0,0
+"The various order statuses are order accepted, order under progress, order completed – pending with delivery, order out for delivery, order delivered.",0,0,0,0,0,1,0,0,1,0
+"This Functional Requirement allows the cafeteria employees to register with COS using employee ID",0,0,0,0,0,1,1,0,0,0
+"Cafeteria employees shall provide their employee ID and password while logging in with COS",0,0,0,0,0,1,1,0,0,0
+"Cafeteria employees shall register COS application, and shall register with Employee ID with their desired password.",0,0,0,0,0,1,1,0,0,0
+"COS displays an error message if the employee id or password is not valid",0,0,0,0,0,1,1,0,1,0
+"This Functional Requirement allows the cafeteria employees to login his COS account using employee ID",0,0,0,0,0,1,1,0,0,0
+"Cafeteria employees shall be registered with COS using employee ID.",0,0,0,0,0,1,1,0,0,0
+"Cafeteria employees such as menu manager, meal preparer, meal deliverer shall be logging in to the cafeteria application every day to resume their duty.",0,0,0,0,0,0,1,1,1,0
+"This Functional Requirement provides delivery instructions to the meal deliverer post accepting the delivery.",0,0,0,1,0,0,0,0,1,0
+"Meal deliverer shall be registered with COS using employee ID.",0,0,0,0,0,1,1,0,0,0
+"COS shall provide delivery instructions to the meal deliver such as restaurant location for picking up the meal and the Patron's delivery details and the time constraints for delivering the meal",0,0,0,1,0,0,0,0,1,0
+"COS shall display the Meal pickup details, Patron's address delivery, time constraints to the accepted meal delivery.",0,0,0,1,0,0,0,0,1,0
+"This Functional Requirement allows the corporate manager to generate the activity reports",0,0,0,1,1,0,0,0,0,0
+"Corporate Manager shall be registered with COS using employee ID.",0,0,0,0,0,1,1,0,0,0
+"Corporate manager fetches activity reports from Cafeteria to know about the employee's progress, number of orders taken, calculating the operating costs",0,0,0,1,1,0,0,0,0,0
+"COS shall display the various activities performed through Cafeteria ordering system",0,0,0,1,0,0,0,0,1,0
+"This Functional Requirement allows the payroll processor to approve the payroll",0,0,0,1,1,1,0,0,0,0
+"Payroll processor shall be registered with COS using employee ID.",0,0,0,0,0,1,1,0,0,0
+"Payroll processor deduces the payment made by the user while placing the order by verifying the Patron's payment details and approving it.",0,0,0,1,1,1,0,0,0,0
+"COS shall display an acknowledgement intimating 'Payment approved' and shall record the transaction details in a separate database for future reference.",0,0,0,1,0,1,0,0,1,0
+"This Functional Requirement allows the corporate manager to view various Feedback made by the user for the orders placed through Cafeteria application",0,0,0,1,1,0,0,0,1,0
+"COS shall displays various Feedback made by the user for the orders placed through Cafeteria application.",0,0,0,0,0,0,0,0,1,0
+"Corporate manager records various positive feedbacks and negative feedbacks for improving the Cafeteria restaurant's growth.",0,0,0,1,0,0,0,0,1,0
+"This Functional Requirement allows the meal preparer to accept the incoming meal order from the patron.",0,0,0,1,0,0,1,0,1,0
+"Patron places a new meal order, which reaches at meal preparer's inbox to accept the order.",0,0,0,0,0,0,0,0,1,0
+"the order will be processed post the acceptance from meal preparer's end.",0,0,0,1,0,0,1,0,0,0
+"COS shall display an acknowledgement intimating, 'Order accepted'.",0,0,0,1,0,1,0,0,1,0
+"This Functional Requirement allows the meal deliverer to accept the incoming meal delivery from the meal preparer.",0,0,0,1,0,0,1,0,1,0
+"Meal deliverer shall be registered with COS using employee ID.",0,0,0,0,0,1,1,0,0,0
+"The delivery request reaches to the meal deliverer's inbox.",0,0,0,0,0,0,0,0,1,0
+"the meal delivery will be processed post the acceptance from meal deliverer's end.",0,0,0,1,0,0,1,0,0,0
+"COS shall display an acknowledgement intimating, 'Meal delivery accepted'.",0,0,0,1,0,1,0,0,1,0
+"COS also displays the delivery instructions to the meal deliverer for collecting the meal from meal preparer and delivering the same to the patron.",0,0,0,1,0,0,0,0,1,0
+"COS provides an option to the meal deliverer to cancel or denying the meal delivery, if the meal deliverer is distant from the restaurant's location.",1,0,1,0,0,0,0,0,1,0
+"This Functional Requirement allows the meal deliverer to pick up the meal at the restaurant's location.",0,0,0,1,0,0,1,0,1,0
+"Meal deliverer accepted the meal delivery.",0,0,0,0,0,0,1,0,1,0
+"Meal deliverer picks up the meal from the restaurant for delivering the same to the Patron.",0,0,0,1,0,0,1,0,1,0
+"Meal deliverer follows the instructions provided by COS for picking up and delivering the meal.",0,0,0,1,0,0,1,0,1,0
+"COS shall display an acknowledgement intimating, 'Meal has been picked up at the restaurant'.",0,0,0,1,0,1,0,0,1,0
+"COS also displays the delivery instructions to the meal deliverer for delivering the meal to the patron.",0,0,0,1,0,0,0,0,1,0
+"This Functional Requirement requests that, users shall view the most rated meal at their home screen.",0,0,1,0,0,0,0,0,1,0
+"Various recipes that has been rated as favorite by majority of Patrons, shall be collected and displayed at the home screen when Patron opens the COS.",0,0,1,0,0,0,0,0,1,0
+"COS displays most rated recipes at Patron's home screen.",0,0,1,0,0,0,0,0,1,0
+"This Functional Requirement allows the user to enter his desired keyword for ordering a meal.",1,0,0,0,0,0,0,0,0,0
+"Patron shall be given preference to enter the restaurant's keyword or the meal's keyword for ordering the meal.",1,0,0,0,0,0,0,0,0,0
+"COS shall fetch the results for the keywords entered by the Patron.",0,0,0,1,0,0,0,0,1,0
+"COS displays the keyword results provided by the Patron at the search bar.",0,0,0,1,0,0,0,0,1,0
+"COS displays an error message if there are no results for the Patron's input.",0,0,0,0,0,1,0,0,1,0
+"This Functional Requirement request the COS developers to design the user interface which makes all the user classes to feel them easy to use the application.",0,0,1,0,0,0,0,0,1,1
+"User interface shall be catchy for various users and shall make them feel easy to use it.",0,0,1,0,0,0,0,0,1,1
+"This Functional Requirement provides a platform for the users to maintain their personal data with COS.",1,0,0,0,0,1,0,0,0,0
+"Patrons shall change their address details, card details, default cuisine preference, change meal subscriptions under 'Account Settings' label.",1,0,1,0,0,1,0,0,0,0
+"Account settings label, including address details, card details, default cuisine preference, change meal subscriptions options.",1,0,1,0,0,1,0,0,0,0
+"The system shall allow customers to register accounts.",1,0,1,0,0,1,0,0,0,0
+"The system shall allow sellers to register accounts.",1,0,1,0,0,1,0,0,0,0
+"The system shall display a signup page for registration.",0,0,0,0,0,0,0,0,1,0
+"Customers shall enter their name during registration.",0,0,0,0,0,0,1,0,0,0
+"Customers shall enter their email-id or phone number during registration.",0,0,0,0,0,0,1,0,0,0
+"Customers shall enter their password during registration.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their name during registration.",0,0,0,0,0,0,1,0,0,0
+"Sellers shall enter their email-id or phone number during registration.",0,0,0,0,0,0,1,0,0,0
+"Sellers shall enter their gst no during registration.",0,0,0,0,0,0,1,0,0,0
+"Upon successful registration, the login page shall be displayed.",0,0,0,0,0,0,1,0,0,0
+"In case of repeated email id during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid email id during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of repeated phone number during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid phone number during registration, the system shall ask the user to re-enter a valid choice.",0,0,0,0,0,1,1,0,0,0
+"The system shall allow customers to view their account details.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow sellers to view their account details.",1,0,0,0,0,0,0,0,0,0
+"Users shall click the 'view account details' button in the home page to view account details.",1,0,0,0,0,0,0,0,0,0
+"The system shall display account details that were filled by the user at the time of creating account.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow customers to login.",1,0,1,0,0,1,0,0,0,0
+"The system shall allow sellers to login.",1,0,1,0,0,1,0,0,0,0
+"The system shall display a login page.",0,0,0,0,0,0,0,0,1,0
+"Customers shall enter their registered email-id or phone number during login.",0,0,0,0,0,1,1,0,0,0
+"Customers shall enter their password during login.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their registered email-id or phone number during login.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter their password during login.",0,0,0,0,0,1,1,0,0,0
+"Upon successful login, the home page shall be displayed.",0,0,0,1,0,1,1,0,0,0
+"In case of invalid email id during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"In case of invalid phone number during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"In case of a mismatch between user id and password during login, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"The system shall allow customers to logout.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow sellers to logout.",1,0,0,0,0,1,0,0,0,0
+"Users shall click the 'logout' button in home page to logout.",1,0,0,0,0,0,0,0,0,0
+"Upon logout, the user is logged out of the account.",0,0,0,0,0,1,0,0,0,0
+"Upon logout, the Login page will be displayed.",0,0,0,0,0,0,1,0,0,0
+"The system shall allow customers to edit their account details.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow sellers to edit their account details.",1,0,0,0,0,1,0,0,0,0
+"Users shall click a button to edit account details in the home page.",1,0,0,0,0,0,0,0,0,0
+"Users shall select the detail whose value has to be edited.",1,0,0,0,0,0,0,0,0,0
+"Users shall enter the new details.",1,0,0,0,0,0,0,0,0,0
+"Users shall click on save changes to save edited details.",1,0,0,0,0,0,0,0,0,0
+"Upon successful update, the account details are successfully updated.",0,0,0,1,0,1,0,0,0,0
+"In case of invalid details during editing, the system shall ask the user to re-enter a valid credential.",0,0,0,0,0,1,1,0,0,0
+"The system shall allow customers to search for items.",1,0,0,0,0,0,0,0,0,0
+"Users shall click on the browse button on the home page to search.",1,0,0,0,0,0,0,0,0,0
+"Users shall type in keywords related to the item (name, brand, etc.) to search.",1,0,0,0,0,0,0,0,0,0
+"The system shall display a list of products related to the searched item.",0,0,0,0,0,0,0,0,1,0
+"If no matching products are found for the searched term/keyword, the system shall display 'No results for the searched term/keyword'.",0,0,0,0,0,1,0,0,1,0
+"If no matching products are found, the system shall suggest checking spelling or using more general terms.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow customers to view item details.",0,0,0,0,0,0,0,0,1,0
+"Users shall click on an item from the list of items to view its details.",1,0,0,0,0,0,0,0,0,0
+"The system shall display the price of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display the brand of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display the size of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display the material of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display the quantity of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display the estimated delivery date of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display images of the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display ratings for the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display reviews for the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall display an 'Add to cart' button for the selected item.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow customers to add items to the cart.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on the add item to cart button in the view item page.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'add item to cart', the item is added to the cart.",0,0,0,0,0,0,0,0,1,0
+"Upon clicking 'add item to cart', the user will remain on the same page.",0,0,0,0,0,0,0,0,1,0
+"If an item already in the cart is added again, the quantity of that item will be increased by 1 in the cart.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow customers to view the shopping cart.",1,0,0,0,0,0,0,0,0,0
+"The view cart button is present on all pages.",0,0,1,0,0,0,0,0,1,0
+"Users shall click on the view cart button to view the shopping cart.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'view cart', a list of items that were added to the cart is displayed.",0,0,0,0,0,0,0,0,1,0
+"The shopping cart displays item details for items in the cart.",0,0,0,0,0,0,0,0,1,0
+"The shopping cart displays the total cost of items in the cart.",0,0,0,0,0,0,0,0,1,0
+"If the cart is empty, the system shall display 'cart empty'.",0,0,0,0,0,0,0,0,1,0
+"If the cart is empty, the customer has the option to return to home page by clicking on continue shopping.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow customers to change items in the cart.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on the delete item button next to an item to delete it from the cart.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on '+' to increase the quantity of an item by 1 in the cart.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on '-' to decrease the quantity of an item by 1 in the cart.",1,0,1,0,0,0,0,0,0,0
+"Changes to items in the cart shall be reflected in the shopping cart page.",0,0,0,0,0,1,0,0,1,0
+"If an item is deleted from the cart, it will be removed from the shopping cart page.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow customers to proceed to buy items in the cart.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on the proceed to buy button in the shopping cart page.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'proceed to buy', the payment page is displayed.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow customers to continue shopping from the shopping cart page.",1,0,1,0,0,0,0,0,0,0
+"Users shall click on the continue shopping button in the shopping cart page.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'continue shopping', the home page is displayed.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow customers to view orders and returns.",1,0,0,0,0,1,0,0,0,0
+"Users shall click on the orders and returns button in the home page to view orders and returns.",1,0,0,0,0,0,0,0,0,0
+"The system shall display the past orders.",0,0,0,0,0,1,0,0,1,0
+"The system shall display the existing orders.",0,0,0,0,0,1,0,0,1,0
+"The system shall display the past returns.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow customers to cancel an order.",1,0,0,0,0,1,0,0,0,0
+"Users shall click on the cancel order button next to the order in the orders and returns page.",1,0,0,0,0,0,0,0,0,0
+"Users shall type in the reason for cancelling the order.",0,0,0,0,0,1,1,0,0,0
+"Upon clicking 'cancel order' and providing a reason, the order is successfully cancelled.",0,0,0,1,0,1,0,0,0,0
+"After cancelling an order, the orders and returns page remains displayed.",0,0,0,0,0,1,0,0,0,0
+"The system shall allow customers to track an order.",1,0,0,0,0,1,0,0,0,0
+"Users shall click on the track order button next to the order in the orders and returns page.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'track order', the tracking information of that order is displayed.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow customers to return an item.",1,0,0,0,0,1,0,0,0,0
+"Users shall click on the return item button next to the item in the orders and returns page.",1,0,0,0,0,0,0,0,0,0
+"Users shall type in the reason for returning the item.",0,0,0,0,0,1,1,0,0,0
+"Upon clicking 'return item' and providing a reason, the item is successfully booked for return.",0,0,0,1,0,1,0,0,0,0
+"After booking an item for return, the orders and returns page remains displayed.",0,0,0,0,0,1,0,0,0,0
+"The system shall allow sellers to upload listings.",1,0,0,1,0,1,0,0,0,0
+"Sellers shall click on upload listings button in the home page.",1,0,0,0,0,0,0,0,0,0
+"Sellers shall enter the name of the item to sell.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter the price of the item to sell.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter the material of the item to sell.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter the quantity of the item to sell.",0,0,0,0,0,1,1,0,0,0
+"Sellers shall enter the colour of the item to sell.",0,0,0,0,0,1,1,0,0,0
+"Upon successful upload, the items are successfully uploaded.",0,0,0,1,0,1,0,0,0,0
+"Upon successful upload, customers can view the uploaded items.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow sellers to view new orders.",1,0,0,0,0,1,0,0,0,0
+"Sellers shall click on view new orders button in the home page.",1,0,0,0,0,0,0,0,0,0
+"Upon clicking 'view new orders', the system displays the orders for the seller's items from the customers.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow sellers to deliver to customer.",0,0,0,1,0,0,0,0,1,0
+"Sellers shall click on deliver to customer button in the view new orders page.",1,0,0,0,0,0,0,0,0,0
+"Sellers shall select the delivery method: deliver independently (self delivery)..",1,0,0,0,0,0,0,0,0,0
+"Sellers shall select the delivery method: external delivery (hire external delivery agency)..",1,0,0,0,0,0,0,0,0,0
+"Upon selecting a delivery method, the item is added to delivery.",0,0,0,1,0,1,0,0,0,0
+"Upon selecting a delivery method, the items undergo the delivery process.",0,0,0,1,0,1,0,0,0,0
+"The system shall have an acceptable average web page response time.",0,0,1,1,0,1,0,0,0,0
+"The system shall have a low failure rate.",0,0,0,1,0,1,0,0,0,0
+"The system shall have an acceptable average web page creation time.",0,0,1,1,0,1,0,0,0,0
+"The system shall support manageable site maintenance costs.",0,0,0,1,0,1,0,0,0,0
+"The system shall support concurrent access for any number of users.",0,0,0,1,0,1,0,0,0,1
+"The system shall have a smooth UI/UX.",0,0,1,1,0,0,0,0,1,0
+"The system shall implement image optimization.",0,0,1,1,0,1,0,0,0,0
+"The system shall implement techniques to ensure the site is not heavy.",0,0,1,1,0,1,0,0,0,0
+"The system shall support third-party data integration.",0,0,0,1,0,1,1,0,0,0
+"The system shall track product availability.",0,0,0,1,0,1,0,0,0,0
+"The system shall have an acceptable average delivery time.",0,0,0,1,0,1,0,0,1,0
+"The system shall ensure adequate quality of delivery.",0,0,0,1,0,1,0,0,1,0
+"The system shall have a low liability failure rate.",0,0,0,1,0,1,0,0,0,0
+"The system shall track inventory turnover.",0,0,0,1,0,1,0,0,0,0
+"The system shall track acquisition cost.",0,0,0,1,0,1,0,0,0,0
+"The system shall track acquisition cost per first customer.",0,0,0,1,0,1,0,0,0,0
+"The system shall track the number of unique customers.",0,0,0,1,0,1,0,0,0,0
+"The system shall track the average visit frequency.",0,0,0,1,0,1,0,0,0,0
+"The system shall track the number of first buyers.",0,0,0,1,0,1,0,0,0,0
+"The system shall track the average order value.",0,0,0,1,0,1,0,0,0,0
+"The system shall track fulfilment cost.",0,0,0,1,0,1,0,0,0,0
+"The system shall track personnel cost.",0,0,0,1,0,1,0,0,0,0
+"The system shall track marketing cost.",0,0,0,1,0,1,0,0,0,0
+"The system shall track return on sales.",0,0,0,1,0,1,0,0,0,0
+"The system shall track total turnover.",0,0,0,1,0,1,0,0,0,0
+"The system shall track sales growth.",0,0,0,1,0,1,0,0,0,0
+"The system shall track order number growth.",0,0,0,1,0,1,0,0,0,0
+"The system shall track visit frequency growth.",0,0,0,1,0,1,0,0,0,0
+"The system shall track market share growth.",0,0,0,1,0,1,0,0,0,0
+"The system shall track complaint rate.",0,0,0,1,0,1,0,0,0,0
+"The system shall track customer satisfaction.",0,0,0,1,0,1,0,0,1,0
+"The system shall allow sellers to monitor their account health.",1,0,0,1,0,1,0,0,0,0
+"Sellers are liable for product quality.",0,0,0,0,0,1,1,0,1,0
+"Seller performance shall be measured based on customer feedback rating.",0,0,0,1,0,1,0,0,0,0
+"The target customer feedback rating for sellers is 3.5 stars or more.",0,0,0,1,0,1,1,0,0,0
+"Seller performance shall be measured based on negative feedback rate.",0,0,0,1,0,1,0,0,0,0
+"The target negative feedback rate for sellers is 1% or less.",0,0,0,1,0,1,1,0,0,0
+"Seller performance shall be measured based on cancellation rate.",0,0,0,1,0,1,0,0,0,0
+"The target cancellation rate for sellers is 5% or less.",0,0,0,1,0,1,1,0,0,0
+"Seller performance shall be measured based on reschedule rate.",0,0,0,1,0,1,0,0,0,0
+"The target reschedule rate for sellers is 5% or less.",0,0,0,1,0,1,1,0,0,0
+"It is essential for sellers to maintain acceptable service levels to be able to continue their market on the online service.",0,0,0,1,0,1,1,0,1,0
+"The system shall protect users from online shopping risks, including personal information theft.",0,0,0,0,0,1,0,0,1,0
+"The system shall protect users from phishing attempts related to the service.",0,0,0,0,0,1,0,0,1,0
+"The system shall protect users from keylogging attempts related to the service.",0,0,0,0,0,1,0,0,1,0
+"The system shall protect users from credit card frauds.",0,0,0,0,0,1,0,0,1,0
+"The system shall prevent users from being redirected to malicious sites during payment.",0,0,0,0,0,1,0,0,1,0
+"The system shall prevent malicious sites from looking similar to the legitimate payment gateway.",0,0,0,0,0,1,0,0,1,0
+"The system shall protect users from malware when visiting the website.",0,0,0,0,0,1,0,0,1,0
+"The system shall protect users from adware when visiting the website.",0,0,0,0,0,1,0,0,1,0
+"The system shall take concrete measures to ensure customer trust.",0,0,0,0,0,1,0,0,1,0
+"The website shall display site seals as visual indicators of security.",0,0,0,0,0,1,0,0,1,0
+"The system shall acquire SSL certificates.",0,0,0,0,0,1,1,0,0,0
+"The system shall ensure the communication channel is encrypted.",0,0,0,0,0,1,1,0,0,0
+"The system must use secure sockets in all transactions that include any confidential customer information.",0,0,0,0,0,1,1,0,1,0
+"The system may choose to automatically log out all customers after a period of inactivity.",0,0,0,0,0,1,1,0,1,0
+"The system shall verify by confirmation all transactions with the customer's web browser.",0,0,0,0,0,1,1,0,1,0
+"The system will ensure that cookies do not hold any sensitive information.",0,0,0,0,0,1,1,0,1,0
+"The system will ensure that all temporary storage does not hold any sensitive information.",0,0,0,0,0,1,1,0,1,0
+"The customer's web browser must never display a customer's password.",0,0,0,0,0,1,1,0,1,0
+"The customer's web browser must never display customer's credit card details.",0,0,0,0,0,1,1,0,1,0
+"The system's back-end servers must never display a customer's password.",0,0,0,0,0,1,1,0,1,0
+"The system's back-end servers must only be accessible to authenticated administrators.",0,0,0,1,1,1,1,0,0,0
+"The system's databases must be encrypted.",0,0,0,0,0,1,1,0,0,0
+"The system's databases must be within the company's perimeter.",0,0,0,0,1,1,1,0,0,0
+"The service can ensure user identity authentication using two-step verification procedures.",0,0,0,0,0,1,1,0,1,0
+"The system can ensure that any additional security risks experienced by the users can be reported to the system immediately.",0,0,0,0,0,1,0,0,1,0
+"The system should be adaptable to easily cater to the needs of sellers.",0,0,1,1,0,0,0,0,1,0
+"The system should be adaptable to easily cater to the needs of customers.",0,0,1,1,0,0,0,0,1,0
+"The system should be able to add additional features easily.",0,1,0,1,0,0,0,0,0,0
+"The system should be able to provide support as demanded, especially in case of system vulnerability.",0,0,0,1,0,1,0,0,1,0
+"The system must define product availability by defining the targeted audience.",0,0,0,1,0,0,1,0,0,0
+"The system must define product availability for global users.",0,0,0,1,0,0,0,0,0,1
+"The system must define product availability for a more restricted user space.",0,0,0,1,0,1,1,0,0,0
+"The system must ensure that sellers are able to deliver products to the regions promised by the service.",0,0,0,1,0,1,1,0,1,0
+"The system must ensure that money transactions are not error prone.",0,0,0,1,0,1,1,0,1,0
+"The system must ensure utmost correctness in refunding money in case of returns.",0,0,0,1,0,1,1,0,1,0
+"The system must ensure that offers on products are appropriately deducted from the selling price.",0,0,0,1,0,1,1,0,1,0
+"The system must ensure that delivery services have minimal error.",0,0,0,1,0,1,1,0,1,0
+"The system must ensure that warehouses function properly.",0,0,0,1,0,1,1,0,0,0
+"The system should be highly flexible with servers equipped to accommodate large flow of traffic.",0,0,0,1,0,1,0,0,0,0
+"The system must be interoperable.",0,0,0,1,0,1,1,0,0,0
+"The system must work without any compromise in performance in mobile applications.",0,0,0,1,0,1,1,0,0,0
+"The system must work without any compromise in quality in mobile applications.",0,0,0,1,0,1,1,0,0,0
+"The system must work without any compromise in performance in web applications.",0,0,0,1,0,1,1,0,0,0
+"The system must work without any compromise in quality in web applications.",0,0,0,1,0,1,1,0,0,0
+"The system should be built with modularity so that additional features can be added easily.",0,1,0,1,0,0,0,0,0,0
+"The system should be built with modularity so that additional features can be removed easily.",0,1,0,1,0,0,0,0,0,0
+"Modularity should allow adding/removing features without changing too much of the original structure.",0,1,0,1,0,1,0,0,0,0
+"Modularity should allow reusability of components.",0,0,0,1,0,0,0,0,0,0
+"The reliability of the overall program depends on the reliability of the separate components.",0,0,0,1,0,1,0,0,0,0
+"The main pillar of reliability of the system is the backup of the database.",0,0,0,1,0,1,0,0,0,0
+"The database backup needs to be continuously maintained.",0,0,0,1,0,1,1,0,0,0
+"The database backup needs to be updated to reflect the most recent changes.",0,0,0,1,0,1,1,0,0,0
+"Testing the system can be done on various fronts.",0,0,0,1,0,1,1,0,0,0
+"Unit testing can be done by taking atomic components of the system.",0,0,0,1,0,1,1,0,0,0
+"Unit testing involves isolating atomic components from the remainder of the code.",0,0,0,1,0,1,1,0,0,0
+"Unit testing involves determining whether atomic components behave as expected.",0,0,0,1,0,1,1,0,0,0
+"Program units are combined and tested as groups in multiple ways.",0,0,0,1,0,1,1,0,0,0
+"Integration testing can expose problems with the interfaces among program components.",0,0,0,1,0,1,1,0,0,0
+"Integration testing is performed before trouble occurs in real-world program execution.",0,0,0,1,0,1,1,0,0,0
+"Validation testing focuses on user visible actions.",0,0,0,1,0,1,1,0,1,0
+"Validation testing focuses on user recognizable output from the system.",0,0,0,1,0,1,1,0,1,0
+"Validation testing is successful when software functions in a manner that can be reasonably expected by the customer.",0,0,0,1,0,1,1,0,1,0
+"The system requires a robust commercial backend that delineates customer information.",0,0,0,1,0,1,1,0,0,0
+"The system requires a robust commercial backend that delineates seller information.",0,0,0,1,0,1,1,0,0,0
+"A general management backend is required for inventory.",0,0,0,1,0,1,1,0,0,0
+"A general management backend is required for general system requirements.",0,0,0,1,0,1,1,0,0,0
+"Authorization from payment services is needed for customers to make payments through payment gateways.",0,0,0,0,0,1,1,0,1,0
+"A defined privacy policy is necessary.",0,0,0,0,0,1,1,0,1,0
+"SSL certification is necessary.",0,0,0,0,0,1,1,0,0,0
+"Two-step verification through external mail is necessary to ensure no breach in user data.",0,0,0,0,0,1,1,0,1,0
+"Two-step verification through phone number is necessary to ensure no breach in user data.",0,0,0,0,0,1,1,0,1,0
+"Registered users shall be able to upload recipes to the Recipe Buddy recipe database.",1,1,0,0,0,0,0,0,1,0
+"Users shall be able to set ingredients for a recipe.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to set cook time for a recipe.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to set cook temperature for a recipe.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to set pictures for a recipe.",1,1,0,0,0,0,0,0,0,0
+"Users shall be able to set videos for a recipe.",1,1,0,0,0,0,0,0,0,0
+"Users shall be able to set instructions for a recipe.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to edit the ingredients of a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit the time for a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit the temperature for a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit the pictures for a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit the videos for a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit the instructions for a recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to delete a selected recipe.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to share a selected recipe.",1,0,0,0,0,0,0,0,1,0
+"The system shall support private sharing of recipes.",1,0,0,0,0,1,0,0,1,0
+"The system shall support public sharing of recipes.",1,0,0,0,0,0,0,0,1,1
+"Guests shall be able to view publicly available recipes.",0,0,0,0,0,0,0,0,0,1
+"Guests shall be able to view all relevant elements of publicly available recipes.",0,0,0,0,0,0,0,0,0,1
+"Registered users shall be able to view public recipes.",1,0,0,0,0,0,0,0,0,1
+"Registered users shall be able to view their own private recipes.",1,0,0,0,0,1,0,0,0,0
+"Registered users shall be able to view private recipes shared to them by other users.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to comment on recipe pages.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to rate the quality of recipe pages.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to rate comments.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow registered users to access a timer on the recipe page.",1,0,1,0,0,0,0,0,1,0
+"The timer shall correspond with the cook time of the recipe.",0,0,0,1,0,1,1,0,1,0
+"A timer shall appear near recipe steps that require timed steps.",0,0,1,1,0,0,0,0,1,0
+"The timer shall be preset to the cook time for timed steps.",0,0,0,1,0,1,1,0,1,0
+"Users shall be able to start the timer.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to stop the timer.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to reset the timer.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to rate the quality of a recipe.",1,0,0,0,0,0,0,0,1,0
+"The recipe rating shall be on a scale from 1 to 5 stars.",0,0,0,0,0,0,1,0,0,0
+"A rating of 1 star shall indicate the lowest quality.",0,0,0,0,0,0,1,0,0,0
+"A rating of 5 stars shall indicate the highest quality.",0,0,0,0,0,0,1,0,0,0
+"The system shall allow registered users to leave a comment on a particular recipe.",1,0,0,0,0,0,0,0,1,0
+"Comments shall have a character limit of 300 characters.",0,0,0,0,0,0,1,0,0,0
+"Users can mark their comment as a suggestion.",1,0,0,0,0,0,0,0,1,0
+"If a comment is marked as a suggestion, it shall notify the recipe creator.",0,0,0,0,0,0,0,0,1,0
+"Recipe comments shall be publicly viewable.",0,0,0,0,0,0,0,0,0,1
+"Suggestions shall be private between the commenting user and the recipe creator.",0,0,0,0,0,1,0,0,1,0
+"The system shall allow registered users to rate comments.",1,0,0,0,0,0,0,0,1,0
+"Users shall be able to upvote public comments.",1,0,0,0,0,0,0,0,1,0
+"Users shall be able to downvote public comments.",1,0,0,0,0,0,0,0,1,0
+"Upvoting or downvoting comments shall indicate the quality of the comment.",0,0,0,0,0,0,0,0,1,0
+"Guests shall be able to view the profile of a particular user.",0,0,0,0,0,0,0,0,0,1
+"User profiles shall show a name.",0,0,0,0,0,0,0,0,0,0
+"User profiles shall show a profile picture.",0,0,0,0,0,0,0,0,0,0
+"User profiles shall show a favorite recipe.",0,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to view their own profile.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to make modifications to their profile.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to make modifications to their pantry.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to make modifications to their tools.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to make modifications to their dietary restrictions.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to edit user profile pictures.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit user dietary information.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to edit user pantry.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit user tools.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to view past recipes.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to start new recipes.",1,1,0,0,0,0,0,0,0,0
+"The system shall allow users to view the profiles of other users.",1,0,0,0,0,0,0,0,1,0
+"The system shall allow users to see usernames on other users' profiles.",0,0,0,0,0,0,0,0,0,1
+"The system shall allow users to see created recipes on other users' profiles.",0,0,0,0,0,0,0,0,1,1
+"The system shall allow registered users to keep a detailed list of ingredients they already own.",1,0,0,0,0,0,0,0,0,0
+"The pantry feature shall allow users to list ingredients in their pantry.",1,0,0,0,0,0,0,0,0,0
+"The pantry feature shall allow users to list ingredients in their cupboard.",1,0,0,0,0,0,0,0,0,0
+"The pantry feature shall allow users to list ingredients in their refrigerator.",1,0,0,0,0,0,0,0,0,0
+"The pantry feature shall allow users to list ingredients in their freezer.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to use their pantry data to filter recipes.",1,0,0,1,0,0,0,0,0,0
+"Registered users shall be able to use their pantry data to sort recipes.",1,0,0,1,0,0,0,0,0,0
+"Recipes can be filtered based on containing ingredients the user already owns.",1,0,0,1,0,0,0,0,0,0
+"Recipes can be sorted based on containing ingredients the user already owns.",1,0,0,1,0,0,0,0,0,0
+"The system shall allow users to add owned ingredients to their profile.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to remove owned ingredients from their profile.",1,0,0,0,0,0,0,0,0,0
+"Pantry details shall be private to the user.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow registered users to keep a detailed list of tools and appliances they own.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to use their tools and appliances data to filter recipes.",1,0,0,1,0,0,0,0,0,0
+"Registered users shall be able to use their tools and appliances data to sort recipes.",1,0,0,1,0,0,0,0,0,0
+"Recipes can be filtered based on containing tools and appliances the user already owns.",1,0,0,1,0,0,0,0,0,0
+"Recipes can be sorted based on containing tools and appliances the user already owns.",1,0,0,1,0,0,0,0,0,0
+"The system shall allow users to add owned tools within their profile.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to remove owned tools within their profile.",1,0,0,0,0,0,0,0,0,0
+"Tools details shall be private to the user.",1,0,0,0,0,1,0,0,0,0
+"The search feature shall allow guests to search for recipes.",0,0,0,0,0,0,0,0,0,1
+"The search feature shall allow registered users to search for recipes.",1,0,0,0,0,0,0,0,0,1
+"Users shall be able to search for recipes using the recipe name.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to search for recipes using ingredients included.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to search for recipes using cook time.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to search for recipes using rating.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to sort search entries by their dietary restrictions.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to filter search entries by their dietary restrictions.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to sort search entries by their pantry items.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to filter search entries by their pantry items.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to sort search entries by their tools and appliances.",1,0,0,0,0,0,0,0,0,0
+"Registered users shall be able to filter search entries by their tools and appliances.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to insert keywords that get correlated with ingredients.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to insert keywords that get correlated with tools.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to insert keywords that get correlated with recipe names.",1,0,0,0,0,0,0,0,0,0
+"Search entries can be filtered by predetermined dietary restrictions.",0,0,0,0,0,0,1,0,0,0
+"The system shall notify users of certain attributes of a recipe before the user starts cooking.",0,0,0,0,0,1,0,0,1,0
+"The system shall prompt the user if there are missing ingredients for a recipe.",0,0,0,0,0,1,0,0,1,0
+"The system shall prompt the user if there are missing tools for a recipe.",0,0,0,0,0,1,0,0,1,0
+"The system shall prompt the user if a recipe contains general dietary elements.",0,0,0,0,0,1,0,0,1,0
+"The system shall prompt the user if a recipe contains allergens.",0,0,0,0,0,1,0,0,1,0
+"The system shall prompt the user if a recipe contains dietary restrictions.",0,0,0,0,0,1,0,0,1,0
+"The account creation feature shall allow guests to enter information to create a Recipe Buddy account.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to create an account by establishing a username.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to create an account by establishing an email.",1,0,0,0,0,0,0,0,0,0
+"Users shall be able to create an account by establishing a password.",1,0,0,0,0,1,0,0,0,0
+"The system shall require email verification before an account can be used.",0,0,0,0,0,1,1,0,0,0
+"The login feature shall allow guests to login to their account.",1,0,0,0,0,0,0,0,0,0
+"The login feature shall allow users to access their personalized information in Recipe Buddy.",1,0,0,0,0,0,0,0,0,0
+"Users with an established account can access all features of the site.",1,0,0,0,0,0,0,0,0,0
+"The system shall run on all modern hardware.",0,0,0,0,0,1,0,0,0,1
+"Actions shall be performed within a few seconds.",0,0,0,1,0,1,0,0,0,0
+"Changing pages shall be extremely quick.",0,0,0,1,0,1,0,0,0,0
+"Rating recipes shall be extremely quick.",0,0,0,1,0,1,0,0,0,0
+"Commenting shall be extremely quick.",0,0,0,1,0,1,0,0,0,0
+"Using the pantry shall be extremely quick.",0,0,0,1,0,1,0,0,0,0
+"Uploading images may take longer depending on file size.",0,0,0,0,0,1,0,0,0,0
+"Uploading videos may take longer depending on file size.",0,0,0,0,0,1,0,0,0,0
+"Photos shall have a size limit.",0,0,0,0,0,1,1,0,0,0
+"Videos shall have a size limit.",0,0,0,0,0,1,1,0,0,0
+"Videos shall be allowed to be hosted on a third-party website.",1,0,0,0,0,0,0,0,0,0
+"The system shall store all data on private servers.",0,0,0,0,0,1,0,0,0,0
+"The system shall interact with YouTube.",0,0,0,0,0,0,0,0,0,0
+"The system shall interact with Whisk.",0,0,0,0,0,0,0,0,0,0
+"No private user data shall be shared with YouTube.",0,0,0,0,0,1,0,0,0,0
+"No private user data shall be shared with Whisk.",0,0,0,0,0,1,0,0,0,0
+"Integration with YouTube shall be minimal.",0,0,0,0,0,1,0,0,0,0
+"Integration with Whisk shall be minimal.",0,0,0,0,0,1,0,0,0,0
+"The system shall not cause damage to any user device.",0,0,0,0,0,1,0,0,1,0
+"The system does not store any critical user data.",0,0,0,0,0,1,0,0,0,0
+"Interfaces shall be easy to use.",0,0,1,1,0,0,0,0,1,0
+"Interfaces shall be intuitive to use.",0,0,1,1,0,0,0,0,1,0
+"Interfaces shall be maintained to be easy and intuitive to use.",0,0,1,1,0,1,0,0,1,0
+"The visual design shall be visually appealing.",0,0,1,0,0,0,0,0,0,0
+"The system shall accommodate users with accessibility needs.",0,0,0,0,0,0,0,0,1,1
+"The system shall provide feedback for user actions.",0,0,0,0,0,1,0,0,1,0
+"Errors shall be fixed quickly when reported.",0,0,0,1,0,1,0,0,1,0
+"Users shall be able to view the current page if connection is lost.",0,0,0,0,0,1,0,0,0,0
+"Some features may not work if connection is lost.",0,0,0,0,0,1,0,0,0,0
+"Users without an account shall not be able to access certain features.",0,0,0,0,0,1,1,0,0,0
+"The Pantry feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Tools feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Recipe Creation feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Profile feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Commenting feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Recipe Rating feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Timer feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Private Recipes feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The Video feature shall be exclusive to account holders.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to log in to the application.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to log in by clicking the 'Login' button.",1,0,0,0,0,0,0,0,0,0
+"The user must have an account within the system to log in.",0,0,0,0,0,1,1,0,0,0
+"Upon successful login, the user will be redirected to the Dashboard screen.",0,0,0,0,0,1,0,0,0,0
+"If login input text fields are left blank, the system shall display an error message 'Please enter the details'.",0,0,0,0,0,1,1,0,0,0
+"If login fails, the user must close the application and try logging in again.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to create a new account.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to create an account by clicking the 'Create account' button.",1,0,0,0,0,0,0,0,0,0
+"The user must have the app installed on their phone to create an account.",0,0,0,0,0,1,1,0,0,0
+"Upon successful account creation, the user will be able to log in to the application.",0,0,0,0,0,1,0,0,0,0
+"Upon successful account creation, the user will be redirected to the 'Take the tour' screen.",0,0,0,0,0,1,0,0,0,0
+"If invalid details (e.g., name, contact info) are entered during account creation, the system shall display an error message 'Invalid details. Please try again'.",0,0,0,0,0,1,1,0,0,0
+"If account creation input text fields are left blank, the system shall display an error message 'Please enter the details'.",0,0,0,0,0,1,1,0,0,0
+"If the system is unable to create an account, the system will display an error message.",0,0,0,0,0,1,0,0,0,0
+"If the system is unable to create an account, the system will ask the user to try again later.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to log out of the application.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to log out by clicking the 'logout' button.",1,0,0,0,0,0,0,0,0,0
+"The user must be logged into the application to log out.",0,0,0,0,0,1,1,0,0,0
+"Upon successful logout, the user is logged out of the application.",0,0,0,0,0,1,0,0,0,0
+"Upon successful logout, the user will be redirected to the app's main screen.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during logout, the logout operation will fail.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during logout, the user has to re-launch the application.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to take a tour of the application.",1,0,0,0,0,0,0,0,1,0
+"The application tour shall show all important features of the application.",0,0,0,0,0,0,0,0,1,0
+"The tour shall be triggered when the user logs into the application for the first time.",0,0,0,0,0,0,0,0,1,0
+"The user must be logged into the application to take the tour.",0,0,0,0,0,1,1,0,0,0
+"During the tour, the user can click the 'Skip' button.",1,0,0,0,0,0,0,0,0,0
+"During the tour, the user can click the 'Next' button.",1,0,0,0,0,0,0,0,0,0
+"After receiving the overview from the tour, the user is redirected to the home screen of the app.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to reset their account's password.",1,0,0,0,0,1,0,0,0,0
+"The system shall allow users to reset their password by clicking the 'Forgot password?' button.",1,0,0,0,0,1,0,0,0,0
+"The user must have an existing account to reset their password.",0,0,0,0,0,1,1,0,0,0
+"Upon successful password change, a message 'Password changed successfully' will be displayed.",0,0,0,0,0,1,0,0,0,0
+"The new password will be saved to the database.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during password reset, the operation will fail.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during password reset, the user has to re-launch the application.",0,0,0,0,0,1,1,0,0,0
+"The user account shall be able to be deleted permanently from the system.",1,0,0,0,0,0,0,0,0,0
+"The system shall delete a user account when the user clicks on the 'Delete account' button.",1,0,0,0,0,0,0,0,0,0
+"The user must have an existing account within the system to delete it.",0,0,0,0,0,1,1,0,0,0
+"Upon successful account deletion, the user is signed out of the application.",0,0,0,0,0,1,0,0,0,0
+"Upon successful account deletion, the user is directed to the create an account page.",0,0,0,0,0,1,0,0,0,0
+"Upon successful account deletion, the user details will be removed from the database.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during account deletion, the delete operation will fail.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during account deletion, the user must re-launch the application.",0,0,0,0,0,1,1,0,0,0
+"The admin shall be able to delete a user permanently from the system.",0,0,0,0,1,1,0,0,0,0
+"The system shall delete a user when the admin clicks on the 'Delete this user' button.",0,0,0,0,1,0,0,0,0,0
+"The user account the admin wants to delete should be an existing user.",0,0,0,0,0,1,1,0,0,0
+"Upon successful user deletion, a pop-up message 'Deleted user successfully' will be shown.",0,0,0,0,0,1,0,0,0,0
+"Upon successful user deletion, the user will be removed from the database.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs while deleting the user, the system shall show an exception 'Delete failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The admin shall be able to enable a user account.",0,0,0,0,1,0,0,0,0,0
+"The system shall enable a user account when the admin clicks on the 'Enable this user' button.",0,0,0,0,1,0,0,0,0,0
+"The user account the admin wants to enable should be an existing user.",0,0,0,0,0,1,1,0,0,0
+"Upon successful user enablement, a pop-up message 'Enabled user successfully' will be shown.",0,0,0,0,0,1,0,0,0,0
+"Upon successful user enablement, the selected user will be unblocked from logging into the application.",0,0,0,0,1,1,0,0,0,0
+"If a network error occurs during user enablement, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during user enablement, the admin must close the application and re-try enabling it.",0,0,0,0,0,1,1,0,0,0
+"The admin shall be able to disable a user account temporarily from the system.",0,0,0,0,1,1,0,0,0,0
+"The system shall disable a user account when the admin clicks on the 'Disable this user' button.",0,0,0,0,1,0,0,0,0,0
+"The user account the admin wants to disable should be an existing user.",0,0,0,0,0,1,1,0,0,0
+"Upon successful user disablement, a pop-up message 'Disabled the user successfully' will be shown.",0,0,0,0,0,1,0,0,0,0
+"Upon successful user disablement, the selected user will be blocked from logging into the application.",0,0,0,0,1,1,0,0,0,0
+"If a network error occurs during user disablement, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"If a network error occurs during user disablement, the admin must close the application and re-try disabling it.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to report a suspicious account.",0,0,0,0,0,1,0,0,0,1
+"The system shall allow users to report an account by clicking on the 'Report' icon button.",0,0,0,0,0,1,0,0,0,1
+"The user must be logged into the application to report an account.",0,0,0,0,0,1,1,0,0,0
+"Upon reporting an account, the reported account will be under review.",0,0,0,0,0,1,0,0,0,1
+"If reporting a user fails due to a network issue, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to edit their profile details.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit their profile by clicking on the 'Edit profile' icon button.",1,0,0,0,0,0,0,0,0,0
+"The user must be logged into the application to edit their profile.",0,0,0,0,0,1,1,0,0,0
+"Upon successful profile edit, a pop-up message 'Profile edited successfully' will be displayed.",0,0,0,0,0,1,0,0,0,0
+"Upon successful profile edit, new changes can be seen on the profile.",0,0,0,0,0,1,0,0,0,0
+"The new profile details will be updated in the database.",0,0,0,0,0,1,0,0,0,0
+"If editing profile fails due to a network issue, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to add a profile picture.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to add a profile picture by clicking on the 'Photo' icon on the 'Edit' profile screen.",1,0,0,0,0,0,0,0,0,0
+"The user must be logged into the application to add a profile picture.",0,0,0,0,0,1,1,0,0,0
+"Upon selecting a picture, the selected picture will be displayed on the profile.",0,0,0,0,0,1,0,0,0,0
+"If the attached file for a profile picture is bigger than the desired size, the system shall throw an exception 'File attached exceeds size. Please try again'.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to add food posts.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to add food posts by clicking on the '+' icon on the dashboard screen.",1,0,0,0,0,0,0,0,0,0
+"Food posts shall include location information.",0,0,0,0,0,0,0,0,1,0
+"The user must be logged into the application to add a food post.",0,0,0,0,0,1,1,0,0,0
+"Upon successful food post addition, the food post is added to the dashboard screen.",0,0,0,0,0,1,0,0,0,0
+"Upon successful food post addition, the data will be saved to the database.",0,0,0,0,0,1,0,0,0,0
+"If adding a food post fails due to a network issue, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to edit or update the food information.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit food information by clicking on the 'Pencil' icon button.",1,0,0,0,0,0,0,0,0,0
+"The user must have an existing food post on the application to edit its information.",0,0,0,0,0,1,1,0,0,0
+"Upon successful food information update, a message 'Updated food details' will be displayed.",0,0,0,0,0,1,0,0,0,0
+"Upon successful food information update, the data will be saved to the database.",0,0,0,0,0,1,0,0,0,0
+"If editing food information fails due to a network issue, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to edit or update the contact information on the food post.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit contact information on a food post by clicking on the 'Edit' icon button.",1,0,0,0,0,0,0,0,0,0
+"The user must have a food post already on the application to edit its contact information.",0,0,0,0,0,1,1,0,0,0
+"Upon successful contact details update, a message 'Updated contact details' will be displayed.",0,0,0,0,0,1,0,0,0,0
+"Upon successful contact details update, the data will be saved to the database.",0,0,0,0,0,1,0,0,0,0
+"If editing contact information fails due to a network issue, the system shall show an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to delete an already added food post.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to delete a food post by clicking on the 'Delete' icon on the food post.",1,0,0,0,0,0,0,0,0,0
+"There should be an existing food post added by the donor to be deleted.",0,0,0,0,0,1,1,0,0,0
+"Upon successful food post deletion, a pop-up message 'Post deleted successfully' will be shown.",0,0,0,0,0,1,0,0,0,0
+"Upon successful food post deletion, the post will be deleted from the database.",0,0,0,0,0,1,0,0,0,0
+"If the post fails to delete due to an issue, the system shall show an exception 'Delete failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to view available food posts.",1,0,0,0,0,0,0,0,0,0
+"The system shall display available food posts when the user logs into the application.",0,0,0,0,0,0,0,0,1,0
+"The user must be logged into the application to view available food posts.",0,0,0,0,0,1,1,0,0,0
+"Upon viewing available food posts, users will be able to send food requests to the donor.",0,0,0,0,0,0,0,0,1,0
+"If the application doesn't fetch food post results, the system shall throw an exception 'Unable to fetch. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"The user shall be able to send a food request to the donor.",0,0,0,0,0,0,0,0,1,0
+"The system shall allow users to send a food request by clicking on the 'Send request' button.",0,0,0,0,0,0,0,0,1,0
+"There must be food posts already added by the donor on the dashboard screen to send a request.",0,0,0,0,0,1,1,0,0,0
+"Upon sending a food request, the food request will be received by the donor.",0,0,0,0,0,0,0,0,1,0
+"If the food request fails to send due to network issues, the system shall throw an exception 'Failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"If the food request fails to send due to network issues, the user must close the application and re-try sending the request again.",0,0,0,0,0,1,1,0,0,0
+"The user shall be able to edit the food request.",1,0,0,0,0,0,0,0,0,0
+"The user shall be able to delete the food request.",1,0,0,0,0,0,0,0,0,0
+"The system shall allow users to edit or delete a food request by clicking on the 'Edit request' button.",1,0,0,0,0,0,0,0,0,0
+"The user must have already sent the food requests to edit or delete them.",0,0,0,0,0,1,1,0,0,0
+"Upon successful edits made by the receiver, the updated food requests can be seen in the donor's food requests list.",0,0,0,0,0,1,0,0,1,0
+"If the user makes an edit to a food request and it is not reflected in the application, the system shall throw an exception 'Edit failed. Please try again'.",0,0,0,0,0,1,0,0,0,0
+"If the user adds an unavailable quantity in a food request edit, the system shall throw an exception 'Unavailable. Please try again'.",0,0,0,0,0,1,1,0,0,0
