@@ -1,106 +1,231 @@
 Requirement,Self-direction,Stimulation,Hedonism,Achievement,Power,Security,Conformity,Tradition,Benevolence,Universalism
-Paraphrase: Recipe comments shall be publicly viewable.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: The admin must be able to disable a user account temporarily from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: The admin shall be able to disable a user account temporarily from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: The admin will be able to disable a user account temporarily from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: Guests shall be able to view all relevant elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Guests must be able to view all relevant elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Guests will be able to view all relevant elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: This software is an Open Source software.,0,0,0,0,0,0,1,0,0,1
-paraphrase: This software is an Open Source software.,0,0,0,0,0,0,1,0,0,1
-Paraphrase: This software is open source software.,0,0,0,0,0,0,1,0,0,1
-Paraphrase: Menu manager can display 'Deal of the day' in the menu screen.,0,0,0,0,1,0,0,0,1,0
-"Paraphrase: Menu manager can display the ""Deal of the day"" in the menu screen.",0,0,0,0,1,0,0,0,1,0
-"Paraphrase: The system shall disable a user account when the admin clicks on the ""Disable this user"" button.",0,0,0,0,1,0,0,0,0,0
-Paraphrase: The admin must be able to enable a user account.,0,0,0,0,1,0,0,0,0,0
-Paraphrase: The admin shall be able to enable a user account.,0,0,0,0,1,0,0,0,0,0
-Paraphrase: The admin will be able to enable a user account.,0,0,0,0,1,0,0,0,0,0
-Paraphrase: Admin has full access to the system which means he can manage any activity relating to the system.,0,0,0,0,1,0,0,0,0,0
-Paraphrase: Admin has full access to the system which means he can manage any activity with regard to the system.,0,0,0,0,1,0,0,0,0,0
-"Paraphrase: If necessary, the software will support Alphabet prediction as well.",0,0,0,0,0,0,0,0,0,1
-"Paraphrase: If needed, the software will support Alphabet prediction as well.",0,0,0,0,0,0,0,0,0,1
-"Paraphrase: If need be, the software will also support Alphabet prediction.",0,0,0,0,0,0,0,0,0,1
-"Paraphrase: 'ALL' cuisine intimates that, Patron is not having any cuisine preference and he will be shown will a complete list of menus.",0,0,0,0,0,0,1,0,0,1
-"phrase: 'ALL' cuisine intimates that, Patron is not having any cuisine preference and he will be shown will a complete list of menus.",0,0,0,0,0,0,1,0,0,1
-"Paraphrase: 'ALL' cuisine intimates that, Patron is not having any cuisine preference and he will be shown a complete list of menus.",0,0,0,0,0,0,1,0,0,1
-En permettant à l'utilisateur de partager l'activité Cafeteria in Facebook accroît la renommée de l'entreprise.,0,0,0,1,1,0,1,0,1,0
-En permettant à l'utilisateur de partager l'activité Cafeteria in Facebook accroît la réputation de l'entreprise.,0,0,0,1,1,0,1,0,1,0
-Paraphrase: The system should be available 24/7.,0,0,0,0,0,1,1,0,1,1
-Paraphrase: Das System sollte 24/7 verfügbar sein.,0,0,0,0,0,1,1,0,1,1
-Paraphrase: COS uses web-server which hosts COS functionalities and data that is accessible from elsewhere.,0,0,0,0,0,1,1,0,0,1
-Paraphrase: The search feature will allow guests to search for recipes.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: The search feature shall allow guests to search for recipes.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: The search feature allows guests to search for recipes.,0,0,0,0,0,0,0,0,0,1
-entailment,0,0,1,0,0,0,0,0,1,1
-Cette exigence fonctionnelle permet au corporate manager de produire les activités reports. Paraphrase: This Functional Requirement allows the corporate manager to generate the activity reports,0,0,0,1,1,0,0,0,0,0
-paraphrase: The system shall support public sharing of recipes,1,0,0,0,0,0,0,0,1,1
-Paraphrase: The system shall support public sharing of recipes,1,0,0,0,0,0,0,0,1,1
-Paraphrase: Guests shall be able to view the profile of a particular user.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Guests must be able to view the profile of a particular user.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Guests will be able to view the profile of a particular user.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Sharing those activities in Facebook builds up Cafeteria reputation among the customers.,0,0,0,1,1,0,1,0,1,0
-Paraphrase: The system should be built with modularity so that additional features can be added easily.,0,1,0,1,0,0,0,0,0,0
-Paraphrase: The system should be built with modularity so that additional features can be easily added.,0,1,0,1,0,0,0,0,0,0
-Paraphrase: User must place a meal order from the other local restaurants menu.,1,1,1,0,0,0,1,0,0,1
-Paraphrase: User shall place a meal order from the other local restaurants menu.,1,1,1,0,0,0,1,0,0,1
-paraphrase: User must place a meal order from the other local restaurants menu.,1,1,1,0,0,0,1,0,0,1
-"Paraphrase: Preferring a default cuisine will make the user adapt his native food style, making the user experience more efficient.",1,0,1,1,0,0,0,1,0,0
-"Paraphrase: Preferring a default cuisine will make the user adapt his native cuisine, making the user experience more efficient.",1,0,1,1,0,0,0,1,0,0
-"Paraphrase: Enreferring a default cuisine will make the user adapt his native food style, making the user experience more efficient.",1,0,1,1,0,0,0,1,0,0
-Paraphrase: The online shopping system is accessible through the internet.,0,0,0,0,0,0,0,0,0,1
-paraphrase: The online shopping system is accessible through the internet.,0,0,0,0,0,0,0,0,0,1
-"Paraphrase: Menu manager is responsible for creating and maintaining the ""Cafeteria menu"".",0,0,0,1,1,0,1,0,1,0
-"Paraphrase: Menu manager is responsible for creating and maintaining the ""Cafeteria menu""",0,0,0,1,1,0,1,0,1,0
-Paraphrase: Corporate Manager selects from and to date for which he wishes to view the Feedbacks made by the Patrons.,1,0,0,0,1,0,1,0,1,0
-Paraphrase: Corporate Manager selects from and to date for which he wishes to view the feedbacks made by the Patrons.,1,0,0,0,1,0,1,0,1,0
-Paraphrase: User shall order a new meal that is not available in cafeteria menu.,1,1,1,0,0,0,0,0,0,0
-Paraphraser: User shall order a new meal that is not available in cafeteria menu.,1,1,1,0,0,0,0,0,0,0
-Paraphrase: User must order a new meal that is not available in cafeteria menu.,1,1,1,0,0,0,0,0,0,0
-Paraphrase: He is the highest privileged user who can access the system,0,0,0,0,1,0,0,0,0,0
-paraphrase: The system shall accommodate users with accessibility needs.,0,0,0,0,0,0,0,0,1,1
-Paraphrase: The system shall accommodate users with accessibility needs.,0,0,0,0,0,0,0,0,1,1
-paraphrase: The system shall support concurrent access for any number of users.,0,0,0,1,0,1,0,0,0,1
-paraphrase: The system must support concurrent access for any number of users.,0,0,0,1,0,1,0,0,0,1
-Paraphrase: The system will allow users to start new recipes.,1,1,0,0,0,0,0,0,0,0
-Paraphrase: The system shall allow users to start new recipes.,1,1,0,0,0,0,0,0,0,0
-Paraphrase: The system will allow users to begin new recipes.,1,1,0,0,0,0,0,0,0,0
-"Paraphrase: The COS shall operate correctly with the following web browsers: Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0.",0,0,0,0,0,1,1,0,0,1
-"Paraphrase: The COS shall operate correctly with following web browsers: Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0.",0,0,0,0,0,1,1,0,0,1
-"Paraphrase: The COS shall operate correctly with: Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0.",0,0,0,0,0,1,1,0,0,1
-"Paraphrase: Upon reporting an account, the reported account will be under review.",0,0,0,0,0,1,0,0,0,1
-"Paraphrase: After reporting an account, the reported account will be under review.",0,0,0,0,0,1,0,0,0,1
-Paraphrase: Modularity should allow adding/removing features without changing too much of the original structure.,0,1,0,1,0,1,0,0,0,0
-paraphrase: Modularity should allow adding/removing features without changing too much of the original structure.,0,1,0,1,0,1,0,0,0,0
-Paraphrase: Modularity should allow adding/removing features without change too much of the original structure.,0,1,0,1,0,1,0,0,0,0
-Paraphrase: The admin shall be able to delete a user permanently from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: The admin must be able to delete a user permanently from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: The admin will be able to delete a user permanently from the system.,0,0,0,0,1,1,0,0,0,0
-Paraphrase: User interface shall be catchy for various users and shall make them feel easy use it.,0,0,1,0,0,0,0,0,1,1
-Paraphraser: User interface shall be catchy for various users and shall make them feel easy use it.,0,0,1,0,0,0,0,0,1,1
-Paraphrase: Benutzer interface shall be catchy for various users and shall make them feel easy use it.,0,0,1,0,0,0,0,0,1,1
-Paraphrase: Convert output prediction from text to speech.,0,0,0,0,0,0,0,0,0,1
-Paraphrase: Payroll processor deduces the payment made by the user while placing the order by verifying the Patron's payment details and approving it.,0,0,0,1,1,1,0,0,0,0
-Paraphrase: Payroll processing deduces the payment made by the user while placing the order by verifying the Patron's payment details and approving it.,0,0,0,1,1,1,0,0,0,0
-Paraphrase: Payroll processor deduces the payment made by the user while placing the order by verifying the patron's payment details and approving it.,0,0,0,1,1,1,0,0,0,0
-Cette condition fonctionnelle permet au payroll processor to approve the payroll. Paraphrase: This Functional Requirement allows the payroll processor to approve the payroll.,0,0,0,1,1,1,0,0,0,0
-Cette condition fonctionnelle permet au payroll processor to approve the payroll. Paraphrase: This functional Requirement allows the payroll processor to approve the payroll.,0,0,0,1,1,1,0,0,0,0
-Paraphrase: Registered users must be able to upload recipes to Recipe Buddy recipe database.,1,1,0,0,0,0,0,0,1,0
-Paraphrase: Registered users may upload recipes to the Recipe Buddy recipe database.,1,1,0,0,0,0,0,0,1,0
-Paraphrase: The system should support more than 1000 user to checkout at same time.,0,0,0,0,0,1,1,0,1,1
-Paraphrase: The system should support more than 1000 user to checkout simultaneously.,0,0,0,0,0,1,1,0,1,1
-Paraphrase: The system should support more than 1000 user to checkout at a time.,0,0,0,0,0,1,1,0,1,1
-"Paraphrase: Upon successful user disablement, the selected user will be blocked from logging into the application.",0,0,0,0,1,1,0,0,0,0
-"Paraphrase: After successful user disablement, the selected user will be blocked from logging into the application.",0,0,0,0,1,1,0,0,0,0
-"Paraphrase: If successful user disablement, the selected user will be blocked from logging into the application.",0,0,0,0,1,1,0,0,0,0
-Paraphrase: Registered users shall be able to view public recipes.,1,0,0,0,0,0,0,0,0,1
-Paraphrase: Registered users must be able to view public recipes.,1,0,0,0,0,0,0,0,0,1
-Paraphraser: Registered users shall be able to view public recipes.,1,0,0,0,0,0,0,0,0,1
-Paraphrase: Welcome screen displays the cafeteria logo alongside with a green patch.,0,0,1,0,0,0,0,1,0,0
-Paraphrase: Welcome screen displays the caféteria logo alongside with a green patch.,0,0,1,0,0,0,0,1,0,0
-Paraphraser: Welcome screen displays the cafeteria logo alongside a green patch.,0,0,1,0,0,0,0,1,0,0
-Paraphrase: User shall provide the style of the food and the ingredients to customize the order.,1,1,1,0,0,0,0,0,0,0
-Paraphrase: User must provide the style of the food and the ingredients to customize the order.,1,1,1,0,0,0,0,0,0,0
-Paraphrase: User shall provide the style of the food and the ingredients for customize the order.,1,1,1,0,0,0,0,0,0,0
-Paraphrase: The search feature will allow registered users to search for recipes.,1,0,0,0,0,0,0,0,0,1
-Paraphrase: The search feature shall allow registered users to search for recipes.,1,0,0,0,0,0,0,0,0,1
-paraphrase: The search feature will allow registered users to search for recipes.,1,0,0,0,0,0,0,0,0,1
+"Outside the cafeteria intranet, COS will be accessible.",0,0,0,0,0,1,1,0,0,1
+"Outside of the cafeteria intranet, COS will be accessible.",0,0,0,0,0,1,1,0,0,1
+"Outside of the cafeteria intranet, there will be aCOS.",0,0,0,0,0,1,1,0,0,1
+The Cafeteria ordering system will allow the patron to share their activity on Facebook.,1,0,1,0,1,0,0,0,1,0
+The Cafeteria ordering system will allow the patron to share their activity with their friends on Facebook.,1,0,1,0,1,0,0,0,1,0
+The Cafeteria ordering system will allow the patron to share their activity with the world.,1,0,1,0,1,0,0,0,1,0
+The comments will be public.,0,0,0,0,0,0,0,0,0,1
+The comments will be publicly viewable.,0,0,0,0,0,0,0,0,0,1
+Comments will be public.,0,0,0,0,0,0,0,0,0,1
+The admin can temporarily remove a user account from the system.,0,0,0,0,1,1,0,0,0,0
+The admin can temporarily disabling a user account from the system.,0,0,0,0,1,1,0,0,0,0
+A user account will be temporarily disabled from the system.,0,0,0,0,1,1,0,0,0,0
+The menu manager is in charge of the various subscription plans.,0,1,0,1,1,0,1,0,1,0
+The menu manager is in charge of creating and maintaining subscription plans.,0,1,0,1,1,0,1,0,1,0
+The menu manager is responsible for creating and maintaining subscription plans for patrons.,0,1,0,1,1,0,1,0,1,0
+Guests will be able to view all elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
+Guests will be able to see all elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
+Guests will be able to see the elements of publicly available recipes.,0,0,0,0,0,0,0,0,0,1
+The software is open source.,0,0,0,0,0,0,1,0,0,1
+The software is free to use.,0,0,0,0,0,0,1,0,0,1
+The software is free and open.,0,0,0,0,0,0,1,0,0,1
+The 'Deal of the day' can be seen in the menu screen.,0,0,0,0,1,0,0,0,1,0
+The 'Deal of the day' can be seen on the menu screen.,0,0,0,0,1,0,0,0,1,0
+The 'Deal of the day' can be seen in the menu manager.,0,0,0,0,1,0,0,0,1,0
+"When the admin clicks on the 'Disable this user' button, the system will disabled a user account.",0,0,0,0,1,0,0,0,0,0
+"When the admin clicks on the 'Disable this user' button, the system will disabled the user account.",0,0,0,0,1,0,0,0,0,0
+"When the admin clicks on the 'Disable this user' button, the system will disabled the account.",0,0,0,0,1,0,0,0,0,0
+A patron can share an activity on Facebook by selecting an order.,1,0,1,1,1,0,0,0,1,0
+A patron can share an activity on Facebook by selecting the 'order history' label.,1,0,1,1,1,0,0,0,1,0
+A patron can share an activity in Facebook if they select an order.,1,0,1,1,1,0,0,0,1,0
+"If the user selects Indian cuisine, he will be shown on the menu screen when he clicks to place the meal order.",1,0,1,0,0,0,0,1,0,0
+"If the user selects Indian cuisine, he will be shown on the menu screen when he clicks to place his meal order.",1,0,1,0,0,0,0,1,0,0
+"If the user selects Indian cuisine, he will be shown on the menu screen when he clicks on it to place his order.",1,0,1,0,0,0,0,1,0,0
+The admin can enable a user account.,0,0,0,0,1,0,0,0,0,0
+The admin will be able to enable a user account,0,0,0,0,1,0,0,0,0,0
+The admin will be able to enable a user.,0,0,0,0,1,0,0,0,0,0
+The admin has full access to the system and he can manage any activity with it.,0,0,0,0,1,0,0,0,0,0
+The administrator has full access to the system and is able to manage any activity.,0,0,0,0,1,0,0,0,0,0
+The administrator has full access to the system and is able to manage any activity with it.,0,0,0,0,1,0,0,0,0,0
+The system will allow users to see their usernames.,0,0,0,0,0,0,0,0,0,1
+Users can see other users' usernames on the system.,0,0,0,0,0,0,0,0,0,1
+The system will allow users to see usernames.,0,0,0,0,0,0,0,0,0,1
+The software will support the prediction.,0,0,0,0,0,0,0,0,0,1
+The software will support the prediction if need be.,0,0,0,0,0,0,0,0,0,1
+The software will support the prediction if needed.,0,0,0,0,0,0,0,0,0,1
+The system's back-end server must only be accessible to authorized users.,0,0,0,1,1,1,1,0,0,0
+The system's back-end server is only accessible to administrators who have been verified.,0,0,0,1,1,1,1,0,0,0
+The system's back-end server is only accessible to administrators that are verified.,0,0,0,1,1,1,1,0,0,0
+A complete list of the menus will be shown to Patron when he is shown 'All' cuisine.,0,0,0,0,0,0,1,0,0,1
+A complete list of menus will be shown toPatron when he is shown 'All' cuisine.,0,0,0,0,0,0,1,0,0,1
+A complete list of the menus will be shown to Patron when he is shown 'all' cuisine.,0,0,0,0,0,0,1,0,0,1
+The menu manager can produce recipes and ingredient lists for custom meals.,0,0,0,1,1,0,0,0,1,0
+The menu manager can create recipes and ingredient lists for custom meals.,0,0,0,1,1,0,0,0,1,0
+The menu manager can make recipes and ingredient lists for custom meals.,0,0,0,1,1,0,0,0,1,0
+The user can share Cafeteria activity in Facebook.,0,0,0,1,1,0,1,0,1,0
+The user sharing the Cafeteria activity in Facebook builds up the reputation of the cafeteria.,0,0,0,1,1,0,1,0,1,0
+The user sharing the Cafeteria activity in Facebook builds a reputation among the customers.,0,0,0,1,1,0,1,0,1,0
+The system needs to be available 24/7.,0,0,0,0,0,1,1,0,1,1
+It should be available 24/7.,0,0,0,0,0,1,1,0,1,1
+The corporate manager can view various feedback made by the user for the orders placed through Cafeteria application.,0,0,0,1,1,0,0,0,1,0
+The corporate manager can view various feedback made by the user for the orders placed through the Cafeteria application.,0,0,0,1,1,0,0,0,1,0
+The corporate manager can see various feedback made by the user for the orders placed through Cafeteria application.,0,0,0,1,1,0,0,0,1,0
+The system needs to be modular so that features can be removed easily.,0,1,0,1,0,0,0,0,0,0
+The system needs to be modular so that features can be removed quickly.,0,1,0,1,0,0,0,0,0,0
+The system needs to be modular so that features can be removed.,0,1,0,1,0,0,0,0,0,0
+The data that is accessible from other places is hosted on a web-server.,0,0,0,0,0,1,1,0,0,1
+The data that is accessible from elsewhere is hosted on the web-server.,0,0,0,0,0,1,1,0,0,1
+The data that is accessible from other places is hosted on the web-server.,0,0,0,0,0,1,1,0,0,1
+The menu manager keeps a record of the available ingredients.,0,0,0,1,1,1,1,0,1,0
+The menu manager keeps track of the available ingredients.,0,0,0,1,1,1,1,0,1,0
+The menu manager keeps a track of the available ingredients.,0,0,0,1,1,1,1,0,1,0
+Guests will be able to search for recipes.,0,0,0,0,0,0,0,0,0,1
+Guests will be able to search for recipes with the feature.,0,0,0,0,0,0,0,0,0,1
+Guests can use the search feature to find recipes.,0,0,0,0,0,0,0,0,0,1
+The user interface needs to be designed to make the classes feel easy to use in the application.,0,0,1,0,0,0,0,0,1,1
+The user interface needs to be designed to make all the user classes feel comfortable.,0,0,1,0,0,0,0,0,1,1
+"The user interface should be designed to make all the user classes feel easy to use, according to the Functional Requirement.",0,0,1,0,0,0,0,0,1,1
+The corporate manager can generate the activity reports.,0,0,0,1,1,0,0,0,0,0
+The corporate manager can generate activity reports with this Functional Requirement.,0,0,0,1,1,0,0,0,0,0
+The corporate manager can generate activity reports.,0,0,0,1,1,0,0,0,0,0
+The system will support sharing of recipes.,1,0,0,0,0,0,0,0,1,1
+The system will allow the sharing of recipes.,1,0,0,0,0,0,0,0,1,1
+The system will support public sharing of food.,1,0,0,0,0,0,0,0,1,1
+The Change Language option allows the user to change their preferred language.,1,0,1,0,0,0,0,0,0,1
+The change language option allows the user to choose their preferred language.,1,0,1,0,0,0,0,0,0,1
+The change language option allows the user to choose their preferred language,1,0,1,0,0,0,0,0,0,1
+Guests will be able to view a user's profile.,0,0,0,0,0,0,0,0,0,1
+Guests will be able to view the profile of a user.,0,0,0,0,0,0,0,0,0,1
+Guests will be able to see a user's profile.,0,0,0,0,0,0,0,0,0,1
+People can sign into our application with a Facebook account with the help of the Javascript and mobile application.,0,0,0,0,0,1,1,0,0,1
+People can sign into our application with a Facebook account with the help of the Javascript and mobile apps.,0,0,0,0,0,1,1,0,0,1
+People can sign into our application with a Facebook account with the help of the Javascript and mobile app.,0,0,0,0,0,1,1,0,0,1
+Sharing those activities on Facebook builds a reputation for the cafeteria.,0,0,0,1,1,0,1,0,1,0
+Sharing those activities in Facebook builds a reputation among the customers.,0,0,0,1,1,0,1,0,1,0
+Sharing those activities in Facebook builds a reputation for the cafeteria.,0,0,0,1,1,0,1,0,1,0
+"Chinese cuisine, Thai food cuisine, Indian cuisine, Native American cuisine, Asian cuisine, Mediterranean cuisine and other types of cuisines are available to choose from.",1,1,1,0,0,0,0,1,0,1
+"Chinese cuisine, Thai food cuisine, Indian cuisine, Native American cuisine, Asian cuisine, Mediterranean cuisine and other types of cuisines are available for selection.",1,1,1,0,0,0,0,1,0,1
+"Chinese cuisine, Thai food cuisine, Indian cuisine, Native American cuisine, Asian cuisine, Mediterranean cuisine and other types of cuisines are available to the user.",1,1,1,0,0,0,0,1,0,1
+The default cuisine will be set to all if a patron doesn't choose any cuisine preference.,0,0,0,0,0,0,1,0,0,1
+The default cuisine will be set to 'all' if a patron doesn't have a cuisine preference.,0,0,0,0,0,0,1,0,0,1
+The default cuisine will be set to 'all' if a patron doesn't select any cuisine preference.,0,0,0,0,0,0,1,0,0,1
+The system should be modular so that features can be added easily.,0,1,0,1,0,0,0,0,0,0
+The system should be easy to add additional features to.,0,1,0,1,0,0,0,0,0,0
+The system should be modular so that features can be added quickly.,0,1,0,1,0,0,0,0,0,0
+The user can place a meal order at the other local restaurants.,1,1,1,0,0,0,1,0,0,1
+User can place a meal order from other local restaurants.,1,1,1,0,0,0,1,0,0,1
+The user can place a meal order at any of the local restaurants.,1,1,1,0,0,0,1,0,0,1
+He downloads the report when he selects the date.,1,0,0,1,1,0,1,0,0,0
+"After selecting the date, he clicks on the download button.",1,0,0,1,1,0,1,0,0,0
+"After selecting the date, he selects the PDF button to download.",1,0,0,1,1,0,1,0,0,0
+The corporate manager fetches activity reports from the cafeteria to know about the employee's progress.,0,0,0,1,1,0,0,0,0,0
+The corporate manager fetches activity reports from the cafeteria to calculate the operating costs.,0,0,0,1,1,0,0,0,0,0
+The corporate manager fetches activity reports from the cafeteria to know about the employees progress.,0,0,0,1,1,0,0,0,0,0
+The user experience will be more efficient if the user is given a default cuisine.,1,0,1,1,0,0,0,1,0,0
+The user experience will be more efficient if the user is told a default cuisine.,1,0,1,1,0,0,0,1,0,0
+The user experience will be more efficient if the user is pre-ferring a default cuisine.,1,0,1,1,0,0,0,1,0,0
+The online shopping system can be accessed through the internet.,0,0,0,0,0,0,0,0,0,1
+The online shopping system is accessible.,0,0,0,0,0,0,0,0,0,1
+The online shopping system can be accessed via the internet.,0,0,0,0,0,0,0,0,0,1
+Any operating system can access the online shopping system.,0,0,0,0,0,0,0,0,0,1
+"On any operating system, the online shopping system is accessible.",0,0,0,0,0,0,0,0,0,1
+The online shopping system can be accessed on any operating system.,0,0,0,0,0,0,0,0,0,1
+The menu manager is responsible for creating and maintaining the menu.,0,0,0,1,1,0,1,0,1,0
+The menu manager is responsible for maintaining the menu.,0,0,0,1,1,0,1,0,1,0
+The menu manager is in charge of the menu.,0,0,0,1,1,0,1,0,1,0
+The Corporate Manager wants to view the feedbacks made by the patrons.,1,0,0,0,1,0,1,0,1,0
+The Corporate Manager wants to see the feedbacks made by the patrons.,1,0,0,0,1,0,1,0,1,0
+Corporate Manager selects from and to date for which he would like to see feedback from patrons.,1,0,0,0,1,0,1,0,1,0
+The user can order a new meal that is not on the cafeteria menu.,1,1,1,0,0,0,0,0,0,0
+The user can order a meal that is not on the cafeteria menu.,1,1,1,0,0,0,0,0,0,0
+The user can order a new meal that is not in the cafeteria menu.,1,1,1,0,0,0,0,0,0,0
+A user can create a new meal service subscription if he wants to enroll in a new plan.,1,1,1,0,0,0,0,0,0,0
+A user can create a new meal service subscription if he wants to enroll in a new meal plan.,1,1,1,0,0,0,0,0,0,0
+A new meal service subscription can be created if a user wants to enroll in a new plan.,1,1,1,0,0,0,0,0,0,0
+He is the highest privileged user.,0,0,0,0,1,0,0,0,0,0
+The highest privileged user is able to access the system.,0,0,0,0,1,0,0,0,0,0
+The highest privileged user can access the system.,0,0,0,0,1,0,0,0,0,0
+Corporate Manager wants to generate reports from and to date.,1,0,0,1,1,0,1,0,0,0
+Corporate Manager wants to generate reports.,1,0,0,1,1,0,1,0,0,0
+Corporate Manager wants to generate reports from and to date,1,0,0,1,1,0,1,0,0,0
+"When the admin clicks on the 'Enable this user' button, the system will enable a user account.",0,0,0,0,1,0,0,0,0,0
+"When the admin clicks on the 'Enable this user' button, the system will allow a user account.",0,0,0,0,1,0,0,0,0,0
+"When the admin clicks on the 'Enable this user' button, a user account will be enabled.",0,0,0,0,1,0,0,0,0,0
+The system will accommodate accessibility needs.,0,0,0,0,0,0,0,0,1,1
+Users with accessibility needs will be accommodated.,0,0,0,0,0,0,0,0,1,1
+The system will accommodate users with accessibility needs.,0,0,0,0,0,0,0,0,1,1
+Concurrent access is supported for any number of users.,0,0,0,1,0,1,0,0,0,1
+The system will allow concurrent access for all users.,0,0,0,1,0,1,0,0,0,1
+Concurrent access for any number of users will be supported.,0,0,0,1,0,1,0,0,0,1
+Users can start new recipes with the system.,1,1,0,0,0,0,0,0,0,0
+The system will allow users to start new recipes.,1,1,0,0,0,0,0,0,0,0
+The system will let users start new recipes.,1,1,0,0,0,0,0,0,0,0
+The system should be able to add more features.,0,1,0,1,0,0,0,0,0,0
+The system should be able to add more features quickly.,0,1,0,1,0,0,0,0,0,0
+The system should be able to add additional features.,0,1,0,1,0,0,0,0,0,0
+"Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0 will all operate correctly with the COS.",0,0,0,0,0,1,1,0,0,1
+"Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0 are some of the browsers that the COS will operate correctly with.",0,0,0,0,0,1,1,0,0,1
+"Windows Internet Explorer versions 7, 8, and 9; Firefox versions 12 through 26; Google Chrome (all versions); and Apple Safari versions 4.0 through 8.0 are some of the browsers that the COS will operate correctly in.",0,0,0,0,0,1,1,0,0,1
+The default cuisine will be set to 'all' if a patron chooses to skip this step.,1,0,1,0,0,0,1,0,0,1
+The default cuisine will be set to 'All' if a patron chooses the skip this step option.,1,0,1,0,0,0,1,0,0,1
+The default cuisine will be set to 'all' if a patron chooses to skip the step.,1,0,1,0,0,0,1,0,0,1
+The reported account will be reviewed.,0,0,0,0,0,1,0,0,0,1
+The account that was reported will be reviewed.,0,0,0,0,0,1,0,0,0,1
+The reported account will be reviewed after being reported.,0,0,0,0,0,1,0,0,0,1
+Marketability for a restaurant is promoted by sharing activities on Facebook.,0,0,0,1,1,0,1,0,1,0
+Marketability for the Cafeteria restaurant is promoted by sharing activities on Facebook.,0,0,0,1,1,0,1,0,1,0
+Marketability for the Cafeteria restaurant is promoted by sharing activities in Facebook.,0,0,0,1,1,0,1,0,1,0
+Adding/relocating features can be done without changing much of the original structure.,0,1,0,1,0,1,0,0,0,0
+Adding/relocating features should be possible without changing the original structure.,0,1,0,1,0,1,0,0,0,0
+Adding/relocating features can be done without changing much of the structure.,0,1,0,1,0,1,0,0,0,0
+The admin can permanently remove a user from the system.,0,0,0,0,1,1,0,0,0,0
+The admin will be able to permanently remove users from the system.,0,0,0,0,1,1,0,0,0,0
+The admin will be able to permanently remove someone from the system.,0,0,0,0,1,1,0,0,0,0
+The user interface will be easy to use for many users.,0,0,1,0,0,0,0,0,1,1
+The user interface should be easy to use.,0,0,1,0,0,0,0,0,1,1
+The user interface should be easy to use for all users.,0,0,1,0,0,0,0,0,1,1
+The prediction can be converted from text to speech.,0,0,0,0,0,0,0,0,0,1
+The output prediction can be converted to speech.,0,0,0,0,0,0,0,0,0,1
+The output prediction can be turned into a speech.,0,0,0,0,0,0,0,0,0,1
+Users will be able to see created recipes on other users' profiles,0,0,0,0,0,0,0,0,1,1
+Users will be able to see created recipes on other users profiles.,0,0,0,0,0,0,0,0,1,1
+The system will allow users to see other users' created recipes.,0,0,0,0,0,0,0,0,1,1
+The payroll processor deduces the user's payment from the user's invoice and places the order by checking the patron's payment details.,0,0,0,1,1,1,0,0,0,0
+The payroll processor deduces the user's payment from the user's invoice and places the order.,0,0,0,1,1,1,0,0,0,0
+The payroll processor deduces the user's payment from the user's invoice and places the order by checking the Patron's payment details.,0,0,0,1,1,1,0,0,0,0
+The user can choose their preferred language for shopping.,1,0,1,0,0,0,0,0,0,1
+The user can change their preferred language for shopping.,1,0,1,0,0,0,0,0,0,1
+The change language option allows the user to choose their preferred language,1,0,1,0,0,0,0,0,0,1
+It should be easy to learn for all types of users.,0,0,1,0,0,0,0,0,1,1
+It should be easy to learn for all users.,0,0,1,0,0,0,0,0,1,1
+It should be easy to learn for all kinds of users.,0,0,1,0,0,0,0,0,1,1
+The payroll processor can approve the payroll.,0,0,0,1,1,1,0,0,0,0
+The payroll processor can approve the payroll using this Functional Requirement.,0,0,0,1,1,1,0,0,0,0
+The payroll processor can approve the payroll using this functional requirement.,0,0,0,1,1,1,0,0,0,0
+Users will be able to add recipes to the database.,1,1,0,0,0,0,0,0,1,0
+The recipe database will be uploaded by registered users.,1,1,0,0,0,0,0,0,1,0
+Users will be able to upload their recipes.,1,1,0,0,0,0,0,0,1,0
+More than 1000 users should be able to checkout at the same time.,0,0,0,0,0,1,1,0,1,1
+More than 1000 users should be supported by the system.,0,0,0,0,0,1,1,0,1,1
+The system should be able to handle more than 1000 users.,0,0,0,0,0,1,1,0,1,1
+The change language option allows the user to choose their preferred language.,1,0,1,0,0,0,0,0,0,1
+The change language option allows the user to choose their preferred language,1,0,1,0,0,0,0,0,0,1
+The Change Language option lets the user choose their preferred language.,1,0,1,0,0,0,0,0,0,1
+The menu manager is responsible for maintaining the other local restaurant's menu.,0,0,0,1,1,0,1,0,1,0
+The menu manager is responsible for the other local restaurant's menu.,0,0,0,1,1,0,1,0,1,0
+The menu manager is responsible for maintaining the menu at the other local restaurant.,0,0,0,1,1,0,1,0,1,0
+The menu manager is in charge of the ordering system.,0,0,0,1,1,0,1,0,0,0
+The menu manager is the boss of the ordering system.,0,0,0,1,1,0,1,0,0,0
+The menu manager is the boss.,0,0,0,1,1,0,1,0,0,0
+There is a change language option on the home page.,0,0,0,0,0,0,0,0,0,1
+There is a Change Language option on the home page.,0,0,0,0,0,0,0,0,0,1
+The home page has a change language option.,0,0,0,0,0,0,0,0,0,1
+The selected user will be blocked from logging into the application after successful user disabling.,0,0,0,0,1,1,0,0,0,0
+The selected user will be blocked from logging in after successful user disabling.,0,0,0,0,1,1,0,0,0,0
+The selected user will be blocked from logging into the application once successful user disabling is done.,0,0,0,0,1,1,0,0,0,0
+The menu manager is responsible for creating and maintaining subscription plans.,0,1,0,1,1,0,1,0,1,0
+The menu manager is responsible for creating and maintaining the various subscription plans.,0,1,0,1,1,0,1,0,1,0
+The menu manager is responsible for creating and maintaining the various plans for patrons.,0,1,0,1,1,0,1,0,1,0
+Public recipes can be viewed by registered users.,1,0,0,0,0,0,0,0,0,1
+Public recipes will be accessible to registered users.,1,0,0,0,0,0,0,0,0,1
+Public recipes can be seen by registered users.,1,0,0,0,0,0,0,0,0,1
+The cafeteria logo is displayed alongside a green patch on the welcome screen.,0,0,1,0,0,0,0,1,0,0
+The cafeteria logo is displayed with a green patch on the welcome screen.,0,0,1,0,0,0,0,1,0,0
+The cafeteria logo is displayed along with a green patch.,0,0,1,0,0,0,0,1,0,0
+The style of the food and ingredients will be provided by the user.,1,1,1,0,0,0,0,0,0,0
+The style of the food and ingredients should be provided by the user.,1,1,1,0,0,0,0,0,0,0
+The style of the food and ingredients should be given to the user.,1,1,1,0,0,0,0,0,0,0
+registered users will be able to search for recipes.,1,0,0,0,0,0,0,0,0,1
+registered users can use the search feature to find recipes.,1,0,0,0,0,0,0,0,0,1
+The feature will allow users to search for recipes.,1,0,0,0,0,0,0,0,0,1
