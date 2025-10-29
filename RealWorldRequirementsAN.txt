@@ -1040,3 +1040,28 @@ The user must have already sent the food requests to edit or delete them.,0,0,0,
 Upon successful edits made by the receiver, the updated food requests can be seen in the donor's food requests list.,0,0,0,0,0,1,0,0,1,0
 If the user makes an edit to a food request and it is not reflected in the application, the system shall throw an exception "Edit failed. Please try again".,0,0,0,0,0,1,0,0,0,0
 If the user adds an unavailable quantity in a food request edit, the system shall throw an exception "Unavailable. Please try again".,0,0,0,0,0,1,1,0,0,0
+"The primary database architecture shall be normalized to the third form (3NF).",0,0,0,0,0,0,0,0,0,0
+"All REST endpoints must return appropriate HTTP status codes (2xx, 4xx, 5xx).",0,0,0,0,0,0,0,0,0,0
+"The server-side application shall be deployed using Python 3.11.",0,0,0,0,0,0,0,0,0,0
+"The system must achieve a P99 latency of less than 300 milliseconds.",0,0,0,0,0,0,0,0,0,0
+"All API documentation must be generated and maintained using OpenAPI Specification 3.0.",0,0,0,0,0,0,0,0,0,0
+"Automated infrastructure provisioning shall be managed exclusively via Terraform.",0,0,0,0,0,0,0,0,0,0
+"Logging severity levels must adhere to the RFC 5424 standard.",0,0,0,0,0,0,0,0,0,0
+"The front-end code must utilize React Hooks for state management.",0,0,0,0,0,0,0,0,0,0
+"The data warehouse backup frequency shall be set to daily incremental backups.",0,0,0,0,0,0,0,0,0,0
+"All CSS styling must be applied using the Tailwind CSS utility-first framework.",0,0,0,0,0,0,0,0,0,0
+"The deployment pipeline must ensure zero downtime during minor version updates.",0,0,0,0,0,0,0,0,0,0
+"The system must employ a microservices pattern with API Gateway aggregation.",0,0,0,0,0,0,0,0,0,0
+"The development team shall follow a trunk-based development branching strategy.",0,0,0,0,0,0,0,0,0,0
+"Code reviews must be performed on all pull requests affecting core business logic.",0,0,0,0,0,0,0,0,0,0
+"The application must be horizontally scalable to support 5,000 concurrent users.",0,0,0,0,0,0,0,0,0,0
+"All environment variables must be stored and accessed via a centralized secrets manager.",0,0,0,0,0,0,0,0,0,0
+"The codebase must pass linting rules set by the team with zero errors.",0,0,0,0,0,0,0,0,0,0
+"The database technology selected must be PostgreSQL.",0,0,0,0,0,0,0,0,0,0
+"Performance testing must include stress tests up to 150% expected peak load.",0,0,0,0,0,0,0,0,0,0
+"The system architecture must include an automated load balancer for traffic distribution.",0,0,0,0,0,0,0,0,0,0
+"All data structure serialization must use JSON format.",0,0,0,0,0,0,0,0,0,0
+"The system must be compatible with modern browsers (Chrome, Firefox, Safari) released within the last two years.",0,0,0,0,0,0,0,0,0,0
+"The chosen cloud provider is Amazon Web Services (AWS).",0,0,0,0,0,0,0,0,0,0
+"The system should use asynchronous processing for all background tasks.",0,0,0,0,0,0,0,0,0,0
+"Unit test coverage for core components must not fall below 80%.",0,0,0,0,0,0,0,0,0,0
