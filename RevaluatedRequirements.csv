@@ -998,6 +998,7 @@
 "If the attached file for a profile picture is bigger than the desired size, the system shall throw an exception 'File attached exceeds size. Please try again'.",0,0,0,0,0,1,1,0,0,0
 "The user shall be able to add food posts.",1,0,0,0,0,0,0,0,0,0
 "The system shall allow users to add food posts by clicking on the '+' icon on the dashboard screen.",1,0,0,0,0,0,0,0,0,0
+"Food posts shall include contact information.",0,0,0,0,0,0,0,0,1,0
 "Food posts shall include location information.",0,0,0,0,0,0,0,0,1,0
 "The user must be logged into the application to add a food post.",0,0,0,0,0,1,1,0,0,0
 "Upon successful food post addition, the food post is added to the dashboard screen.",0,0,0,0,0,1,0,0,0,0
@@ -1064,3 +1065,4 @@
 "The chosen cloud provider is Amazon Web Services (AWS).",0,0,0,0,0,0,0,0,0,0
 "The system should use asynchronous processing for all background tasks.",0,0,0,0,0,0,0,0,0,0
 "Unit test coverage for core components must not fall below 80%.",0,0,0,0,0,0,0,0,0,0
+
